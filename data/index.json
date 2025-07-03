@@ -109,5 +109,53 @@
         "tier": "--"
       }
     }
+  },
+  "71f939d8-3ec0-46cd-ab2d-0ae62904b37e": {
+    "timed": true,
+    "story ID": "71f939d8-3ec0-46cd-ab2d-0ae62904b37e",
+    "title": {
+      "_default": "2019-08-16-MR-narracion"
+    },
+    "media": {
+      "audio": "2019-08-16-MR-narracion.wav",
+      "video": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "7/3/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "MR",
+      "RH"
+    ],
+    "xml_file_name": "2019-08-16-MR-narracion.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_MR": {
+        "subdivided": false
+      },
+      "translation_MR": {
+        "subdivided": false
+      },
+      "transcript_RH": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "MR",
+        "tier": "transcript_MR"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcript_RH"
+      }
+    }
   }
 }

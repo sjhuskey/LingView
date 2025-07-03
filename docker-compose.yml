@@ -1,0 +1,11 @@
+services:
+  lingview:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    container_name: lingview-app
+    volumes:
+      - ./data:/app/data
+    working_dir: /app
