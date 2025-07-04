@@ -1,29 +1,46 @@
-# LingView 
-A web interface for viewing glossed ELAN and FLEx files, optionally with time-synced video and audio. Developed at Brown University as part of the A'ingae Language Documentation initiative. The standard version of LingView is [BrownCLPS/LingView](https://github.com/BrownCLPS/LingView).
+# README
 
-Front-end code written with [ReactJS](https://reactjs.org/). 
+This is a fork of the repository for [LingView](https://github.com/BrownCLPS/LingView), "A web interface for viewing ELAN and FLEx files." I have modified it only slightly by adding components necessary for running LingView as a Docker container.
 
-## Update: FLEx-with-media support
-LingView now supports .flextext files as source documents. (Flextext is the format used for exporting a file from ELAN to FLEx or vice versa.) The new format can include timing information and can therefore be displayed with synced audio/video. To start using .flextext files, [update LingView](https://github.com/BrownCLPS/LingView/wiki/Update-LingView).
+To use this version:
 
-## Getting Started
-To begin using this site, you'll need to have NPM and Node.js installed. Download and run the installer from [NodeJs.org](https://nodejs.org/). Then, clone this repository and run the command:
-    `npm install`
-    
-This will install all the node modules required by our program. 
+1. Install Docker on your computer. I recommend using [Docker Desktop](https://docs.docker.com/desktop/).
+2. Clone this repository onto your computer. From the command line, `git clone git@github.com:sjhuskey/LingView.git`. Alternatively, download the [zip file](https://github.com/sjhuskey/LingView/archive/refs/heads/master.zip) and expand it on your computer.
+3. Open the Terminal application and navigate to the `LingView` directory. On my computer, I installed it at ~/Sites/LingView, so I do `cd ~/Sites/LingView` to navigate to the directory.
+4. Start the Docker app either by clicking on the Docker app's icon or entering the following command in the Terminal: `open -a docker`.
+5. After Docker is up and running, bring up the LingView Docker container: `docker-compose up`. That will generate a lot of activity in the Terminal window. :wink: After you see `Available on: [1]   http://127.0.0.1:3000` or something similar, you can open a browser and go to <http://localhost:3000> to visit the site.
 
-The first time you use the site, and after each time you make changes, you'll need to rebuild the LingView site. To do so, type the command `npm run quick-build` in the repository's root directory. 
+The Terminal will continue to scroll text. You can disregard that.
 
-To view the website in your browser, open the `index.html` file.
+## To add files to the Index of Texts
 
-## Resources
+Simply drag and drop your `.eaf` files to `data/elan_files` and your `.wav` files (or `.mp3` or `.mp4`) to `data/media_files`. The server running on the Docker container will process them and add them to the index. You might need to refresh your browser screen to see them.
 
-For an overview of the software, its potential uses, and the circumstances and design principles of its creation, see our [paper](http://hdl.handle.net/10125/24916).
+Note that you might see something like this in the Terminal window:
 
-For how-to's and troubleshooting, check the [wiki](https://github.com/BrownCLPS/LingView/wiki). 
+```bash
+WARN: Could not find .pfsx file for 2019-08-16-MR-narracion.eaf. Viewing preferences won't be used.
+lingview-app  | [0] 2019-08-16-MR-narracion.eaf is missing video... ❌ Not found.
+lingview-app  | [0] Done preprocessing ELAN and FLEx!
+lingview-app  | [0] The following stories (IDs and filenames) were processed: 
+lingview-app  | [0] {
+lingview-app  | [0]   '71f939d8-3ec0-46cd-ab2d-0ae62904b37e': '2019-08-16-MR-narracion.eaf',
+lingview-app  | [0]   '1ed3d641-acd9-4466-811d-17c8ed59844c': '20170804_kuke_chiste_FACQ.eaf',
+lingview-app  | [0]   '1e3bff88-29b9-4b3f-be34-bffc38624bac': '103.xml'
+lingview-app  | [0] }
+lingview-app  | [0] 1 missing media files: [
+lingview-app  | [0]   [ '2019-08-16-MR-narracion.mp4', '2019-08-16-MR-narracion.youtube' ]
+lingview-app  | [0] ]
+lingview-app  | [0] Successfully built and wrote search index.
+```
 
-Using LingView? We'd love to hear from you! You can reach us at [kalinda.pride@gmail.com](mailto:kalinda.pride@gmail.com).
+That happens when your file is not associated with a video file. It is normal; nothing is really missing. As long as there is an associated audio file, you should be able to use LingView as expected.
 
-Stuck? Start by reading our paper, browsing the wiki, and playing around with the software for an hour or two. If those don't solve your problem, [contact us](mailto:kalinda.pride@gmail.com).
+## To exit the program
 
-[Contributors welcome!](https://github.com/BrownCLPS/LingView/wiki/Contributors) 
+1. In the open Terminal window, enter the key stroke combination `CTRL-C` to stop the container.
+2. To stop the Docker container, enter `docker-compose down`.
+
+## For help
+
+Write to me at [huskey@ou.edu](mailto:huskey@ou.edu) if you encounter difficulty.
