@@ -1,0 +1,2155 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "71f939d8-3ec0-46cd-ab2d-0ae62904b37e",
+    "title": {
+      "_default": "MR-narracion"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "https://enenlhetaudio.nyc3.cdn.digitaloceanspaces.com/2019-08-16-MR-narracion.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "8/21/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "MR",
+      "RH"
+    ],
+    "xml_file_name": "MR-narracion.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "transcript_MR": {
+        "subdivided": false
+      },
+      "translation_MR": {
+        "subdivided": false
+      },
+      "transcript_RH": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "MR",
+        "tier": "transcript_MR"
+      },
+      "S2": {
+        "name": "RH",
+        "tier": "transcript_RH"
+      }
+    }
+  },
+  "sentences": [
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 640,
+      "end_time_ms": 1540,
+      "num_slots": 1,
+      "text": "por favor",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 2030,
+      "end_time_ms": 6570,
+      "num_slots": 1,
+      "text": "sek apvesai'a?",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 9975,
+      "end_time_ms": 11425,
+      "num_slots": 1,
+      "text": "Manolo",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Manolo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 12800,
+      "end_time_ms": 14400,
+      "num_slots": 1,
+      "text": "Manolo Romero",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "Manolo Romero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 14500,
+      "end_time_ms": 17275,
+      "num_slots": 1,
+      "text": "perfecto, y de donde es?",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 18800,
+      "end_time_ms": 22025,
+      "num_slots": 1,
+      "text": "aca vivo en Nuevo Union, Pozo Amarillo",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aca vivo en Nuevo Union, Pozo Amarillo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 22887,
+      "end_time_ms": 27012,
+      "num_slots": 1,
+      "text": "y cuantos anos tiene usted?",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 28449,
+      "end_time_ms": 30749,
+      "num_slots": 1,
+      "text": "yo tengo 39 anos",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo tengo 39 anos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 35099,
+      "end_time_ms": 36499,
+      "num_slots": 1,
+      "text": "entonces ahora",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 36499,
+      "end_time_ms": 37099,
+      "num_slots": 1,
+      "text": "si",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 37099,
+      "end_time_ms": 45599,
+      "num_slots": 1,
+      "text": "en mi mente estas sentado aqui para que, proque yo no voy a entender lo que estan diciendo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 40049,
+      "end_time_ms": 40849,
+      "num_slots": 1,
+      "text": "si",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 52900,
+      "end_time_ms": 53633,
+      "num_slots": 1,
+      "text": "y ya",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 59533,
+      "end_time_ms": 61600,
+      "num_slots": 1,
+      "text": "asma'ak altenama kolha ka ",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "quiero informar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 61933,
+      "end_time_ms": 63233,
+      "num_slots": 1,
+      "text": "ienaqteso nak",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "esta tarde"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 64850,
+      "end_time_ms": 67550,
+      "num_slots": 1,
+      "text": "vanlha temakha",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo costumbres"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 70367,
+      "end_time_ms": 73667,
+      "num_slots": 1,
+      "text": "temakha ennengko'o nengakhaikamok kahe",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "nuestros costumbres y viviencia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 75984,
+      "end_time_ms": 77417,
+      "num_slots": 1,
+      "text": "nelvesa nak Enenlhet",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que somos Enenlhet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 78234,
+      "end_time_ms": 81167,
+      "num_slots": 1,
+      "text": "vanlha aimelhko niekhe ennengko angetlhatakha'",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo falta que nosotros despertemos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 81700,
+      "end_time_ms": 82767,
+      "num_slots": 1,
+      "text": "pota",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 84367,
+      "end_time_ms": 87833,
+      "num_slots": 1,
+      "text": "ngkoietek ennengko'o nelvesai'a nemopvangka'a",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que tengamos conocimientos a nuestros nombres"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 88000,
+      "end_time_ms": 89967,
+      "num_slots": 1,
+      "text": "angelentepkesek qaselha'",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que queremos resultado "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 92517,
+      "end_time_ms": 94017,
+      "num_slots": 1,
+      "text": "vanlha he akvaktamo nak ",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "en este momento que llego"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 96467,
+      "end_time_ms": 98467,
+      "num_slots": 1,
+      "text": "engkeltavek",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "queremos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 101134,
+      "end_time_ms": 103534,
+      "num_slots": 1,
+      "text": "aktengiai'a nempaivoma",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "buscar nuestro idioma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 104101,
+      "end_time_ms": 105868,
+      "num_slots": 1,
+      "text": "potanhan",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y para"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 106684,
+      "end_time_ms": 108184,
+      "num_slots": 1,
+      "text": "mahai'a",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pensando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 109068,
+      "end_time_ms": 110234,
+      "num_slots": 1,
+      "text": "ngkotengiak",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "a buscar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 110885,
+      "end_time_ms": 112685,
+      "num_slots": 1,
+      "text": "akiangveiakmo nempaivoma",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aprender nuestro idioma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 113852,
+      "end_time_ms": 115336,
+      "num_slots": 1,
+      "text": "koka ntasek nan",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es mas lindo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 115336,
+      "end_time_ms": 118369,
+      "num_slots": 1,
+      "text": "vanlha ketlhengkap hatanhan elmok takha'",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y ustedes tambien que hagan bienvenidos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 118786,
+      "end_time_ms": 121152,
+      "num_slots": 1,
+      "text": "kanhan ngkelvana'ak",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tambien las mujeres"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 121203,
+      "end_time_ms": 122669,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 125636,
+      "end_time_ms": 128403,
+      "num_slots": 1,
+      "text": "avanhek he asmama takha' ngkanek",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo mucho hice bienvenidos porque"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 129086,
+      "end_time_ms": 131419,
+      "num_slots": 1,
+      "text": "avanhek altemo hempasmok",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "quiere mucho apoyarnos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 131452,
+      "end_time_ms": 134052,
+      "num_slots": 1,
+      "text": "hentepkeskesek ennengko'o akvesai'a nak",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que nos haga que tengamos el nombre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 134719,
+      "end_time_ms": 136486,
+      "num_slots": 1,
+      "text": "akietnema vakahak",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que tengamos nuestro proprio libro (diccionario)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 137369,
+      "end_time_ms": 138969,
+      "num_slots": 1,
+      "text": "akietemo nempaivoma",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para tener nuestro idioma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 139436,
+      "end_time_ms": 140836,
+      "num_slots": 1,
+      "text": "nelvesa nak Toba",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "somos Toba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 143303,
+      "end_time_ms": 144536,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 145853,
+      "end_time_ms": 147319,
+      "num_slots": 1,
+      "text": "aktengiaikama he",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ella esta buscando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 147686,
+      "end_time_ms": 149120,
+      "num_slots": 1,
+      "text": "mahai'a niekhe",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pensando"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 150003,
+      "end_time_ms": 151737,
+      "num_slots": 1,
+      "text": "ngkotepkesek lhema",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para tener resultado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 153904,
+      "end_time_ms": 155204,
+      "num_slots": 1,
+      "text": "lhema",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "uno"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 157688,
+      "end_time_ms": 159221,
+      "num_slots": 1,
+      "text": "lhema akvesai'a nak",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "uno que es"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 160554,
+      "end_time_ms": 163454,
+      "num_slots": 1,
+      "text": "hempasvoma nlhokala apvesa nak",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es un diccionario"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 163938,
+      "end_time_ms": 166471,
+      "num_slots": 1,
+      "text": "nengiavekha' pota",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vamos junto para"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 167238,
+      "end_time_ms": 171604,
+      "num_slots": 1,
+      "text": "nengiavek manghatangkek angiohok kas... nengeltemam'a",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si nosotros no conocemos que significa una cosa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 171955,
+      "end_time_ms": 174455,
+      "num_slots": 1,
+      "text": "engvangkek ammaiaksek vakahak",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "se puede abrir el libro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 174839,
+      "end_time_ms": 175772,
+      "num_slots": 1,
+      "text": "akvesa nak",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "aquel nombre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 176539,
+      "end_time_ms": 177705,
+      "num_slots": 1,
+      "text": "nengiangvekho",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "recordamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 179922,
+      "end_time_ms": 181156,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 182406,
+      "end_time_ms": 185273,
+      "num_slots": 1,
+      "text": "skelto ko ketlhengkap nlhokala ketlhengka",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pido a uestedes "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 186606,
+      "end_time_ms": 188106,
+      "num_slots": 1,
+      "text": "engvangkek ammok takha'",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que damos bienvenidos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 190256,
+      "end_time_ms": 194023,
+      "num_slots": 1,
+      "text": "vanlha altemo niekhe nan ngkotnek nan",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo quiere realizar y trabajar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 195073,
+      "end_time_ms": 196773,
+      "num_slots": 1,
+      "text": "akietemo",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "sobre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 199823,
+      "end_time_ms": 201357,
+      "num_slots": 1,
+      "text": "nentalheskama",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "el escrito"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 202024,
+      "end_time_ms": 203424,
+      "num_slots": 1,
+      "text": "oka",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "pero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 204324,
+      "end_time_ms": 206191,
+      "num_slots": 1,
+      "text": "ngkelengiemavek nan",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "lastimosamente"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 206991,
+      "end_time_ms": 208357,
+      "num_slots": 1,
+      "text": "mo'ok nekha",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "el otro lado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 208674,
+      "end_time_ms": 210208,
+      "num_slots": 1,
+      "text": "ntek mo'ok",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "existe otro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 212275,
+      "end_time_ms": 213008,
+      "num_slots": 1,
+      "text": "mo'ok",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "otro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 214641,
+      "end_time_ms": 216275,
+      "num_slots": 1,
+      "text": "mo'ok nentalheskama",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "otro escrito"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 216325,
+      "end_time_ms": 217758,
+      "num_slots": 1,
+      "text": "mo'ok, mok",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "otro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 217758,
+      "end_time_ms": 219258,
+      "num_slots": 1,
+      "text": "nentalheskama nak",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "escrito"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 219642,
+      "end_time_ms": 221108,
+      "num_slots": 1,
+      "text": "aniem'o",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "es parte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 223442,
+      "end_time_ms": 225575,
+      "num_slots": 1,
+      "text": "apva'a mota po'ok Enenlhet",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "llegan siempre varios otro Enenlhet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 225908,
+      "end_time_ms": 228108,
+      "num_slots": 1,
+      "text": "apva mota po'ok po'ok",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vienen otros y otros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 228475,
+      "end_time_ms": 229808,
+      "num_slots": 1,
+      "text": "mok iokhalhma",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "del afuera"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 230241,
+      "end_time_ms": 231908,
+      "num_slots": 1,
+      "text": "ngkenave mota",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "unos empiesan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 232974,
+      "end_time_ms": 235708,
+      "num_slots": 1,
+      "text": "alpengkamalhka akvesa nak letras",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "siempre cambian que son las letras"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 235841,
+      "end_time_ms": 237141,
+      "num_slots": 1,
+      "text": "nelvesa nak Toba",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "somos Toba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 237825,
+      "end_time_ms": 239025,
+      "num_slots": 1,
+      "text": "koka",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tambien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 239759,
+      "end_time_ms": 241992,
+      "num_slots": 1,
+      "text": "takmelakho kelha ngkotnek",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "va a estar lindo/perfecto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 242475,
+      "end_time_ms": 244075,
+      "num_slots": 1,
+      "text": "angelpaknetek kaselhko'o",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "vamos a hacer un dialogo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 244609,
+      "end_time_ms": 246142,
+      "num_slots": 1,
+      "text": "potan ngkotnek nan",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y para que"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 247309,
+      "end_time_ms": 249742,
+      "num_slots": 1,
+      "text": "aktakmanma ennengko'o nengvetai'a",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tengan buen visto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 249759,
+      "end_time_ms": 251159,
+      "num_slots": 1,
+      "text": "nelvesai'a nak Toba",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que nos llamamos Toba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 253526,
+      "end_time_ms": 254859,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 256526,
+      "end_time_ms": 259059,
+      "num_slots": 1,
+      "text": "avanhek nan nelpakmetekama aknem lhaiek",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "estabamos hablando mucho ayer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 260592,
+      "end_time_ms": 262759,
+      "num_slots": 1,
+      "text": "nentengiekho ania'a akvesa nak",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "buscamos mas informacion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 264142,
+      "end_time_ms": 265042,
+      "num_slots": 1,
+      "text": "nemmahai'a",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que queremos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 268259,
+      "end_time_ms": 269426,
+      "num_slots": 1,
+      "text": "angioho temakha'",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para saber sobre el tipo de"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 270042,
+      "end_time_ms": 270709,
+      "num_slots": 1,
+      "text": "no nak",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "por ejemplo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 271142,
+      "end_time_ms": 272775,
+      "num_slots": 1,
+      "text": "nengeltema qaselha'",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "lo que llamamos las cosas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 274392,
+      "end_time_ms": 275992,
+      "num_slots": 1,
+      "text": "aklhamekha nempaivoma",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que multiplica nuestra idioma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 277392,
+      "end_time_ms": 279326,
+      "num_slots": 1,
+      "text": "nenlhamasekha",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que podemos crecer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 279526,
+      "end_time_ms": 280959,
+      "num_slots": 1,
+      "text": "nengeltema qaselha'",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "lo que llamamos las cosas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 281542,
+      "end_time_ms": 284042,
+      "num_slots": 1,
+      "text": "koka ketsek nan nientelhe'",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si es un poco dificil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 284826,
+      "end_time_ms": 286792,
+      "num_slots": 1,
+      "text": "mangvetekhek nan kolhave'",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "encontrar mas rapido"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 287243,
+      "end_time_ms": 288676,
+      "num_slots": 1,
+      "text": "koka takmelakho koka'",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si tambien esta muy bien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 289026,
+      "end_time_ms": 289993,
+      "num_slots": 1,
+      "text": "avanhek",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "mucho"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 293909,
+      "end_time_ms": 295860,
+      "num_slots": 1,
+      "text": "akietnai'a mota",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "existe varios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 295860,
+      "end_time_ms": 298126,
+      "num_slots": 1,
+      "text": "nelpakmetekama ngkanek",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "hablamos porque"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 298760,
+      "end_time_ms": 301760,
+      "num_slots": 1,
+      "text": "nengeltavek ampeivesekho mota takha he",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "queremos que buscamos varias formas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 304494,
+      "end_time_ms": 306127,
+      "num_slots": 1,
+      "text": "nengvetai'a mota ennengko",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "varias cosas que vimos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 308744,
+      "end_time_ms": 310144,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "solo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 310611,
+      "end_time_ms": 311778,
+      "num_slots": 1,
+      "text": "nlhengke ngkolhek",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ella dice que quiere estar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 315128,
+      "end_time_ms": 318328,
+      "num_slots": 1,
+      "text": "hanet tolhema pelten kelha mahai'a ngkolhengke'",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tres meses"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 319095,
+      "end_time_ms": 321062,
+      "num_slots": 1,
+      "text": "aniem'o aktengiai'anhan",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "porque busca"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 321378,
+      "end_time_ms": 323978,
+      "num_slots": 1,
+      "text": "akvesa nak Toba apaivoma",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "que es idioma Toba"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 324445,
+      "end_time_ms": 327278,
+      "num_slots": 1,
+      "text": "pota ngkotepkesek nan lhema libro",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "para escribir un libro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 328295,
+      "end_time_ms": 329995,
+      "num_slots": 1,
+      "text": "alhenolhkaiek akno nak",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "yo le informe po ejemplo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 330112,
+      "end_time_ms": 331279,
+      "num_slots": 1,
+      "text": "nengiangvekho",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "recordamos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 331662,
+      "end_time_ms": 333095,
+      "num_slots": 1,
+      "text": "nlhohkalanhan",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "y tal vez"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 333578,
+      "end_time_ms": 335812,
+      "num_slots": 1,
+      "text": "aklhamekha' nempaivoma",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "va a trabajar mucho con nuestra idioma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 337262,
+      "end_time_ms": 337762,
+      "num_slots": 1,
+      "text": "ya?",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 337862,
+      "end_time_ms": 338562,
+      "num_slots": 1,
+      "text": "si",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "transcript_RH",
+      "start_time_ms": 341146,
+      "end_time_ms": 346912,
+      "num_slots": 1,
+      "text": "entonces sera bien si este grabacion sera publica?",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "transcript_MR",
+      "start_time_ms": 347396,
+      "end_time_ms": 348096,
+      "num_slots": 1,
+      "text": "si",
+      "dependents": [
+        {
+          "tier": "translation_MR",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "si"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
