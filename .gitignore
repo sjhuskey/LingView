@@ -1,8 +1,0 @@
-**/.DS_Store
-node_modules/
-.idea/
-bundle/
-bundle-online/
-bundle-offline/
-build/
-build/*
