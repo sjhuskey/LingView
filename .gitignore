@@ -6,6 +6,8 @@ bundle-online/
 bundle-offline/
 build/
 build/*
+build/**/*.js
+build/*.js
 data/json_files/*.json
 data/search_index.json
 data/elan_files/
