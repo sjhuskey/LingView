@@ -4,8 +4,9 @@ const syncUrlExists = require('sync-rpc')(require.resolve('./url_exists'));
 const readFlex = require('./flex/read_flex.js'); // TODO use me more, and use read_eaf.js too, for stylistic consistency
 
 const TARGET_MEDIA_FILE_EXTENSIONS = {
-  audio: new Set(['.mp3', '.wav']),
-  video: new Set(['.mp4', '.youtube']),
+  audio_local: new Set(['.mp3', '.wav']), // local audio files
+  audio_remote: new Set(['.audiourl']), // remote audio files
+  video: new Set(['.mp4', '.youtube']), // video files
 };
 
 function getMetadataFromIndex(filename) {
@@ -42,23 +43,36 @@ function getFlexMediaFilenames(itext) {
 }
 
 function verifyMedia(filename) {
-  // I/P: filename, a .mp3, .mp4, or .youtube file
+  // I/P: filename, a .mp3, .mp4, .audiourl, or .youtube file
   // O/P: boolean, whether or not file exists in media_files directory
 
   // If the "filename" is actually a name of a file, it must end in
   // an extension name that is part of the all valid video file extensions.
   // In this case, check if there exists a file with that name. 
-  const fileExtension = '.' + filename.split('.').pop();
-  if (TARGET_MEDIA_FILE_EXTENSIONS.video.has(fileExtension) 
-  || TARGET_MEDIA_FILE_EXTENSIONS.audio.has(fileExtension)) {
+  if (typeof filename !== 'string') return false;
+
+  const fileExtension = '.' + filename.split('.').pop().toLowerCase();
+
+  if (
+    TARGET_MEDIA_FILE_EXTENSIONS.video.has(fileExtension) ||
+    TARGET_MEDIA_FILE_EXTENSIONS.audio_local.has(fileExtension) ||
+    TARGET_MEDIA_FILE_EXTENSIONS.audio_remote.has(fileExtension)
+  ) {
     const media_files = fs.readdirSync("data/media_files");
-    return (media_files.indexOf(filename) >= 0);
-  } else if (filename.slice(4) === "http") {
-    // Else if the "filename" as stored in the metadata is actually an URL.
-    // Return true in this case, assuming the URL is a valid from Youtube.
-    return true; 
+    return media_files.includes(filename);
+  } else if (/^https?:\/\//.test(filename)) {
+    // Handle actual remote URLs
+    return true;
   }
-  return false; 
+
+  return false;
+}
+
+function getAllAudioExtensions() {
+  return new Set([
+    ...TARGET_MEDIA_FILE_EXTENSIONS.audio_local,
+    ...TARGET_MEDIA_FILE_EXTENSIONS.audio_remote,
+  ]);
 }
 
 function findValidMedia(filenames) {
@@ -72,6 +86,11 @@ function findValidMedia(filenames) {
   return null;
 }
 
+// Check if a remote audio file's path ends in the ".audiourl" extension. 
+function isAudioFilepathAudioURLExtension(audioFile) {
+  return audioFile.endsWith(".audiourl");
+}
+
 // Check if a video file's path ends in the ".youtube" extension. 
 function isVideoFilepathYoutubeExtension(videoFile) {
   return videoFile.endsWith(".youtube");
@@ -79,7 +98,7 @@ function isVideoFilepathYoutubeExtension(videoFile) {
 
 function mediaSearch(filename, mediaType, mediaFiles, extensions) {
   // I/P: filename, the name of the ELAN or FLEx file
-  // I/P: mediaType, which is either "video" or "audio", for printing to the command line
+  // I/P: mediaType, which is "video", "audio_local", or "audio_remote" for printing to the command line
   // I/P: mediaFiles, a list of the media files that were linked in the ELAN or FLEx file
   // I/P: extensions, file extensions for media files, including the leading period (some iterable type, e.g. array or set)
   // O/P: the filename of the first valid media that was found, or null if none exists
@@ -143,6 +162,13 @@ function remoteMediaSearch(filenamesToTry) {
   return { filename: null, remoteUrl: null };
 }
 
+// Determine file type from file extension.
+function isMediaFileOfType(filename, typeSet) {
+  const ext = '.' + filename.split('.').pop().toLowerCase();
+  return typeSet.has(ext);
+}
+
+
 function updateMediaMetadata(filename, storyID, metadata, linkedMediaPaths) {
   // Only call this function if the file contains timestamps.
   // I/P: filename, of the FLEx or ELAN file
@@ -158,19 +184,29 @@ function updateMediaMetadata(filename, storyID, metadata, linkedMediaPaths) {
   let hasWorkingAudio = verifyMedia(audioFile);
   if (!hasWorkingAudio) {
     metadata['media']['audio'] = "";
+  } else {
+    // If the audio file has ".audiourl" extension,
+    // replace the field value with the actual URL from the file content.
+    if (isMediaFileOfType(audioFile, TARGET_MEDIA_FILE_EXTENSIONS.audio_remote)) {
+      const audioFileContent = fs.readFileSync("./data/media_files/" + audioFile, 'utf8').trim();
+      metadata['media']['audio'] = audioFileContent;
+    }
   }
+
   const videoFile = metadata['media']['video'];
   let hasWorkingVideo = verifyMedia(videoFile);
   if (!hasWorkingVideo) {
     metadata['media']['video'] = "";
   } else {
     // If the video file has ".youtube" extension,
-    // change the content of the 'video' tag to the actual Youtube URL.
-    if (isVideoFilepathYoutubeExtension(videoFile)) {
-      const videoFileContent = fs.readFileSync("./data/media_files/" + videoFile, 'utf8');
+    // replace the field value with the actual URL from the file content.
+    if (isMediaFileOfType(videoFile, TARGET_MEDIA_FILE_EXTENSIONS.video) &&
+      videoFile.endsWith(".youtube")) {
+      const videoFileContent = fs.readFileSync("./data/media_files/" + videoFile, 'utf8').trim();
       metadata['media']['video'] = videoFileContent;
     }
   }
+
 
   // If both audio/video work, then we're done. Otherwise, figure out what we need.
   if (hasWorkingAudio && hasWorkingVideo) {
@@ -181,7 +217,9 @@ function updateMediaMetadata(filename, storyID, metadata, linkedMediaPaths) {
   for (const mediaPath of linkedMediaPaths) {
     const mediaFilename = getFilenameFromPath(mediaPath);
     const fileExtension = mediaFilename.substring(mediaFilename.lastIndexOf('.')).toLowerCase();
-    if (TARGET_MEDIA_FILE_EXTENSIONS.audio.has(fileExtension)) {
+    if (TARGET_MEDIA_FILE_EXTENSIONS.audio_local.has(fileExtension)) {
+      audioFiles.push(mediaFilename);
+    } else if (TARGET_MEDIA_FILE_EXTENSIONS.audio_remote.has(fileExtension)) {
       audioFiles.push(mediaFilename);
     } else if (TARGET_MEDIA_FILE_EXTENSIONS.video.has(fileExtension)) {
       videoFiles.push(mediaFilename);
@@ -190,10 +228,17 @@ function updateMediaMetadata(filename, storyID, metadata, linkedMediaPaths) {
   
   // Media search
   if (!hasWorkingAudio) {
-    const audioFile = mediaSearch(filename, "audio", audioFiles, TARGET_MEDIA_FILE_EXTENSIONS.audio);
+    const audioFile = mediaSearch(filename, "audio", audioFiles, getAllAudioExtensions());
     if (audioFile != null) {
       hasWorkingAudio = true;
       metadata['media']['audio'] = audioFile;
+      // If the audio file has ".audiourl" extension,
+      // change the content of the 'audio' tag to the actual Youtube URL.
+      if (isAudioFilepathAudioURLExtension(audioFile)) {
+        const audioFileContent = fs.readFileSync("./data/media_files/" + audioFile, 'utf8');
+        console.log(`📦 Loaded remote audio from .audiourl: ${audioFileContent}`);
+        metadata['media']['audio'] = audioFileContent;
+      }
     }
   }
   if (!hasWorkingVideo) {
@@ -263,7 +308,8 @@ module.exports.improveFLExIndexData = function improveFLExIndexData(path, storyI
         "_default": defaultTitle,
       },
       "media": {
-        "audio": "",
+        "audio_local": "",
+        "audio_remote": "",
         "video": ""
       },
       "languages": [],
@@ -330,7 +376,8 @@ module.exports.improveElanIndexData = function improveElanIndexData(path, storyI
         "_default": getTitleFromFilename(filename),
       },
       "media": {
-        "audio": "",
+        "audio_local": "",
+        "audio_remote": "",
         "video": ""
       },
       "languages": [],
