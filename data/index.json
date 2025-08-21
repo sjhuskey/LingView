@@ -114,15 +114,17 @@
     "timed": true,
     "story ID": "71f939d8-3ec0-46cd-ab2d-0ae62904b37e",
     "title": {
-      "_default": "2019-08-16-MR-narracion"
+      "_default": "MR-narracion"
     },
     "media": {
-      "audio": "2019-08-16-MR-narracion.wav",
-      "video": ""
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "https://enenlhetaudio.nyc3.cdn.digitaloceanspaces.com/2019-08-16-MR-narracion.wav"
     },
     "languages": [],
     "date_created": "",
-    "date_uploaded": "7/3/2025",
+    "date_uploaded": "8/21/2025",
     "source": {
       "_default": ""
     },
@@ -134,7 +136,7 @@
       "MR",
       "RH"
     ],
-    "xml_file_name": "2019-08-16-MR-narracion.eaf",
+    "xml_file_name": "MR-narracion.eaf",
     "source_filetype": "ELAN",
     "tier IDs": {
       "transcript_MR": {
