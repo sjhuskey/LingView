@@ -6,7 +6,7 @@ function sleep(ms) {
 }
 
 function timeoutRetrier(asyncFn, { maxRetries = 5, retryDelay = 1000, timeout = 3000 } = {}) {
-  return async function(...args) {
+  return async function (...args) {
     const errors = [];
     for (let i = 0; i < maxRetries; i++) {
       try {
@@ -30,13 +30,28 @@ function timeoutRetrier(asyncFn, { maxRetries = 5, retryDelay = 1000, timeout = 
 }
 
 const timeoutRetryFetch = timeoutRetrier(fetch);
+
 async function urlExists(url) {
-  const urlEncoded = new URL(url).href; // without encoding the url, the fetch fails if the url includes any letters with diacritics
-  const response = await timeoutRetryFetch(urlEncoded, { method: 'HEAD' });
-  // if (!response.ok) {
-  //   console.warn('unexpected response', response.statusText, 'when checking url', url);
-  // }
-  return response.ok;
+  const urlEncoded = new URL(url).href;
+
+  console.log(`🔎 Checking URL: ${urlEncoded}`);
+
+  try {
+    const response = await timeoutRetryFetch(urlEncoded, { method: 'HEAD' });
+    console.log(`🟡 HEAD status: ${response.status} (${response.statusText}) for ${urlEncoded}`);
+    if (response.ok) return true;
+  } catch (err) {
+    console.warn(`⚠️ HEAD request failed for ${urlEncoded}:`, err.toString());
+  }
+
+  try {
+    const response = await timeoutRetryFetch(urlEncoded, { method: 'GET' });
+    console.log(`🟢 GET status: ${response.status} (${response.statusText}) for ${urlEncoded}`);
+    return response.ok;
+  } catch (err) {
+    console.error(`❌ GET request failed for ${urlEncoded}:`, err.toString());
+    return false;
+  }
 }
 
 module.exports = () => urlExists;
