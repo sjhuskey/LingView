@@ -500,6 +500,9 @@ function preprocessDir(eafFilesDir, jsonFilesDir, callback) {
 
 
   for (const eafFileName of eafFileNames) {
+    
+    if (!eafFileName.toLowerCase().endsWith(".eaf")) continue;
+    
     const eafPath = eafFilesDir + eafFileName;
     
     // parse .pfsx file, if found
