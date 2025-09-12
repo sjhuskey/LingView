@@ -6,7 +6,8 @@ const readFlex = require('./flex/read_flex.js'); // TODO use me more, and use re
 const TARGET_MEDIA_FILE_EXTENSIONS = {
   audio_local: new Set(['.mp3', '.wav']), // local audio files
   audio_remote: new Set(['.audiourl']), // remote audio files
-  video: new Set(['.mp4', '.youtube']), // video files
+  video_local: new Set(['.mp4']), // local video files
+  video_remote: new Set(['.videourl']), // remote video files
 };
 
 function getMetadataFromIndex(filename) {
@@ -43,18 +44,19 @@ function getFlexMediaFilenames(itext) {
 }
 
 function verifyMedia(filename) {
-  // I/P: filename, a .mp3, .mp4, .audiourl, or .youtube file
+  // I/P: filename, a .mp3, .mp4, .audiourl, or .videourl file
   // O/P: boolean, whether or not file exists in media_files directory
 
   // If the "filename" is actually a name of a file, it must end in
-  // an extension name that is part of the all valid video file extensions.
+  // an extension name that is part of the all valid file extensions.
   // In this case, check if there exists a file with that name. 
   if (typeof filename !== 'string') return false;
 
   const fileExtension = '.' + filename.split('.').pop().toLowerCase();
 
   if (
-    TARGET_MEDIA_FILE_EXTENSIONS.video.has(fileExtension) ||
+    TARGET_MEDIA_FILE_EXTENSIONS.video_local.has(fileExtension) ||
+    TARGET_MEDIA_FILE_EXTENSIONS.video_remote.has(fileExtension) ||
     TARGET_MEDIA_FILE_EXTENSIONS.audio_local.has(fileExtension) ||
     TARGET_MEDIA_FILE_EXTENSIONS.audio_remote.has(fileExtension)
   ) {
@@ -75,6 +77,13 @@ function getAllAudioExtensions() {
   ]);
 }
 
+function getAllVideoExtensions() {
+  return new Set([
+    ...TARGET_MEDIA_FILE_EXTENSIONS.video_local,
+    ...TARGET_MEDIA_FILE_EXTENSIONS.video_remote,
+  ]);
+}
+
 function findValidMedia(filenames) {
   // I/P: filenames, a list of filenames (file extension included) that would be considered a match
   // O/P: the first filename in the list that we can use as media, or null if none was found
@@ -91,9 +100,9 @@ function isAudioFilepathAudioURLExtension(audioFile) {
   return audioFile.endsWith(".audiourl");
 }
 
-// Check if a video file's path ends in the ".youtube" extension. 
-function isVideoFilepathYoutubeExtension(videoFile) {
-  return videoFile.endsWith(".youtube");
+// Check if a video file's path ends in the ".videourl" extension. 
+function isVideoFilepathVideoURLExtension(videoFile) {
+  return videoFile.endsWith(".videourl");
 }
 
 function mediaSearch(filename, mediaType, mediaFiles, extensions) {
@@ -198,10 +207,10 @@ function updateMediaMetadata(filename, storyID, metadata, linkedMediaPaths) {
   if (!hasWorkingVideo) {
     metadata['media']['video'] = "";
   } else {
-    // If the video file has ".youtube" extension,
+    // If the video file has ".videourl" extension,
     // replace the field value with the actual URL from the file content.
     if (isMediaFileOfType(videoFile, TARGET_MEDIA_FILE_EXTENSIONS.video) &&
-      videoFile.endsWith(".youtube")) {
+      videoFile.endsWith(".videourl")) {
       const videoFileContent = fs.readFileSync("./data/media_files/" + videoFile, 'utf8').trim();
       metadata['media']['video'] = videoFileContent;
     }
@@ -221,7 +230,9 @@ function updateMediaMetadata(filename, storyID, metadata, linkedMediaPaths) {
       audioFiles.push(mediaFilename);
     } else if (TARGET_MEDIA_FILE_EXTENSIONS.audio_remote.has(fileExtension)) {
       audioFiles.push(mediaFilename);
-    } else if (TARGET_MEDIA_FILE_EXTENSIONS.video.has(fileExtension)) {
+    } else if (TARGET_MEDIA_FILE_EXTENSIONS.video_local.has(fileExtension)) {
+      videoFiles.push(mediaFilename);
+    } else if (TARGET_MEDIA_FILE_EXTENSIONS.video_remote.has(fileExtension)) {
       videoFiles.push(mediaFilename);
     }
   }
@@ -233,7 +244,7 @@ function updateMediaMetadata(filename, storyID, metadata, linkedMediaPaths) {
       hasWorkingAudio = true;
       metadata['media']['audio'] = audioFile;
       // If the audio file has ".audiourl" extension,
-      // change the content of the 'audio' tag to the actual Youtube URL.
+      // change the content of the 'audio' tag to the actual audio URL.
       if (isAudioFilepathAudioURLExtension(audioFile)) {
         const audioFileContent = fs.readFileSync("./data/media_files/" + audioFile, 'utf8');
         console.log(`📦 Loaded remote audio from .audiourl: ${audioFileContent}`);
@@ -242,13 +253,13 @@ function updateMediaMetadata(filename, storyID, metadata, linkedMediaPaths) {
     }
   }
   if (!hasWorkingVideo) {
-    const videoFile = mediaSearch(filename, "video", videoFiles, TARGET_MEDIA_FILE_EXTENSIONS.video);
+    const videoFile = mediaSearch(filename, "video", videoFiles, getAllVideoExtensions());
     if (videoFile != null) {
       hasWorkingVideo = true;
       metadata['media']['video'] = videoFile;
-      // If the video file has ".youtube" extension,
-      // change the content of the 'video' tag to the actual Youtube URL.
-      if (isVideoFilepathYoutubeExtension(videoFile)) {
+      // If the video file has ".videourl" extension,
+      // change the content of the 'video' tag to the actual video URL.
+      if (isVideoFilepathVideoURLExtension(videoFile)) {
         const videoFileContent = fs.readFileSync("./data/media_files/" + videoFile, 'utf8');
         metadata['media']['video'] = videoFileContent;
       }

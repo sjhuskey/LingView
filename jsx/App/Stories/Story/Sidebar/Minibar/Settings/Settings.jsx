@@ -4,30 +4,43 @@ import { showVideoButtonText } from '~./jsx/App/locale/LocaleConstants.jsx';
 import { TranslatableText } from '~./jsx/App/locale/TranslatableText.jsx'
 
 class VideoButton extends React.Component {
-  // I/P: --
-  // O/P: a button that can show/hide video, reset "player" ID, etc.
   constructor(props) {
     super(props);
     this.state = {
-      checkboxState: true
+      checkboxState: false   // start with video hidden
     };
     this.toggle = this.toggle.bind(this);
   }
 
-  toggle(event) {
-    this.setState({checkboxState: !this.state.checkboxState});
-
-    if (!this.state.checkboxState) {
-      Video.show();
-    } else {
-      Video.hide();
-    }
+  toggle() {
+    this.setState((prevState) => {
+      const newState = !prevState.checkboxState;
+      if (newState) {
+        Video.show();
+      } else {
+        Video.hide();
+      }
+      return { checkboxState: newState };
+    });
   }
 
   render() {
-    return <div id="videoButton"><input type="checkbox" onClick={this.toggle} defaultChecked /><label><TranslatableText dictionary={showVideoButtonText} /></label></div>;
+    return (
+      <div id="videoButton">
+        <input
+          type="checkbox"
+          onClick={this.toggle}
+          checked={this.state.checkboxState}
+          readOnly
+        />
+        <label>
+          <TranslatableText dictionary={showVideoButtonText} />
+        </label>
+      </div>
+    );
   }
 }
+
 
 export function Settings({ tiers, hasVideo }) {
 	// I/P: tiers, a hashmap from tier name to a boolean indicating whether the tier is subdivided
