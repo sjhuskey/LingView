@@ -6,3 +6,4 @@ bundle-online/
 bundle-offline/
 build/
 build/*
+build/bundle.js
