@@ -6,7 +6,7 @@ const landingPageJSX = {
   [ENGLISH]:
     <div>
       <p>Welcome! You have found the LingView site for the Enenlhet Language Documentation Project. Use this site to view our currently transcribed and translated narrative texts with speakers from Pozo Amarillo and Casanillo, Paraguay.</p>
-      <p>This website is powered by <a href='https://github.com/BrownCLPS/LingView/' target="_blank" rel="noopener noreferrer">Lingview</a>. Click <a href='#/index'>"Index of Texts"</a> to see some example texts.</p>
+      <p>This website is powered by <a href='https://github.com/BrownCLPS/LingView/' target="_blank" rel="noopener noreferrer">Lingview</a>. Click <a href='#/index'>"Index of Texts"</a> to see some example texts.😀</p>
     </div>,
   [ESPANOL]:
     <div>
