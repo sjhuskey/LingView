@@ -4,7 +4,7 @@ This is a fork of the repository for [LingView](https://github.com/BrownCLPS/Lin
 
 ## Improvements
 
-This code in this fork has been refactored to use HTML 5 elements for audio and video. It also eliminates the dependence on YouTube for remote video streaming. Instead, it replaces the `.youtube` file extension and logic with generic `.videourl` and `.audiourl` file extensions and logic for streaming both from any streamining source (e.g., Digital Ocean's Spaces).
+This code in this fork has been refactored to use HTML 5 elements for audio and video. It also eliminates the dependence on YouTube for remote video streaming. Instead, it replaces the `.youtube` file extension and logic with generic `.videourl` and `.audiourl` file extensions and logic for streaming both from any streaming source (e.g., Digital Ocean's Spaces).
 
 ## Prerequisites
 
