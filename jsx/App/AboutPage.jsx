@@ -5,18 +5,17 @@ import { TranslatableText } from './locale/TranslatableText.jsx'
 const aboutPageJSX = {
   [ENGLISH]:
     <div>
-      <p>Input content here :) </p>
-      <p>To customize this welcome text, edit the jsx/App/AboutPage.jsx file, then run webpack for your changes to take effect. </p>
+      <p>This is display tool for the oral histories collected as part of the Enenlhet Language Documentation Project with the (Toba) Enenlhet communities in Pozo Amarillo and Casanillo, Paraguay. The goal here is that speakers can interact with the texts/recordings, enjoy them, and provide feedback to the project team. To explore all the files from the project, see the archival repository at the University of Texas at Austin: <a href="https://ailla.utexas.org/es/islandora/object/ailla%3A266557">https://ailla.utexas.org/es/islandora/object/ailla%3A266557</a>.</p>
+
     </div>,
   [ESPANOL]:
     <div>
-      <p>Ingrese el contenido aquí :) </p>
-      <p>Para personalizar este texto de bienvenida, edite el archivo 'jsx/App/AboutPage.jsx' y luego ejecute el paquete web para que los cambios surtan efecto. </p>
+      <p>Esta es una herramienta de exhibición de las historias orales recopiladas como parte del Proyecto de Documentación de la Lengua Enenlhet con las comunidades (Toba) Enenlhet en Pozo Amarillo y Casanillo, Paraguay. El objetivo aquí es que los oradores puedan interactuar con los textos/grabaciones, disfrutarlos y brindar retroalimentación al equipo del proyecto. Para explorar todos los archivos del proyecto, consulte el repositorio de archivos de la Universidad de Texas en Austin: <a href="https://ailla.utexas.org/es/islandora/object/ailla%3A266557">https://ailla.utexas.org/es/islandora/object/ailla%3A266557</a>.</p>
+
     </div>,
   [FRANCAIS]:
     <div>
-      <p>Saisissez le contenu ici :) </p>
-      <p>Pour personnaliser ce texte de bienvenue, modifiez le fichier 'jsx/App/AboutPage.jsx', puis exécutez webpack pour que vos modifications prennent effet. </p>
+      <p>Ceci est un outil d'affichage pour les histoires orales recueillies dans le cadre du Projet de Documentation de la Langue Enenlhet avec les communautés (Toba) Enenlhet à Pozo Amarillo et Casanillo, au Paraguay. L'objectif ici est que les locuteurs puissent interagir avec les textes/enregistrements, les apprécier et fournir des commentaires à l'équipe du projet. Pour explorer tous les fichiers du projet, consultez le dépôt d'archives de l'Université du Texas à Austin : <a href="https://ailla.utexas.org/es/islandora/object/ailla%3A266557">https://ailla.utexas.org/es/islandora/object/ailla%3A266557</a>.</p>
     </div>,
 };
 

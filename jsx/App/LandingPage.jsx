@@ -5,18 +5,18 @@ import { TranslatableText } from './locale/TranslatableText.jsx'
 const landingPageJSX = {
   [ENGLISH]:
     <div>
-      <p>Welcome! This website is powered by <a href='https://github.com/BrownCLPS/LingView/' target="_blank" rel="noopener noreferrer">Lingview</a>. Click <a href='#/index'>"Index of Texts"</a> to see some example texts.</p>
-      <p>To customize this welcome text, edit the jsx/App/LandingPage.jsx file, then run webpack for your changes to take effect. </p>
+      <p>Welcome! You have found the LingView site for the Enenlhet Language Documentation Project. Use this site to view our currently transcribed and translated narrative texts with speakers from Pozo Amarillo and Casanillo, Paraguay.</p>
+      <p>This website is powered by <a href='https://github.com/BrownCLPS/LingView/' target="_blank" rel="noopener noreferrer">Lingview</a>. Click <a href='#/index'>"Index of Texts"</a> to see some example texts.</p>
     </div>,
   [ESPANOL]:
     <div>
-      <p>¡Bienvenido! Este sitio web funciona con LingView. Haga clic <a href='#/index'>"Índice de textos"</a> para ver algunos textos de ejemplo. </p>
-      <p>Para personalizar este texto de bienvenida, edite el archivo 'jsx/App/LandingPage.jsx' y luego ejecute el paquete web para que los cambios surtan efecto. </p>
+      <p>¡Bienvenido! Ha encontrado el sitio LingView para el proyecto de documentación del idioma Enenlhet. Use este sitio para ver nuestros textos narrativos transcritos y traducidos con hablantes de Pozo Amarillo y Casanillo, Paraguay.</p>
+      <p>Este sitio web funciona con <a href='https://github.com/BrownCLPS/LingView/' target="_blank" rel="noopener noreferrer">Lingview</a>. Haga clic <a href='#/index'>"Índice de textos"</a> para ver algunos textos de ejemplo.</p>
     </div>,
   [FRANCAIS]:
     <div>
-      <p>Bienvenue! Ce site Web est alimenté par LingView. Cliquez <a href='#/index'>"Index des Textes"</a> pour voir quelques exemples de textes. </p>
-      <p>Pour personnaliser ce texte de bienvenue, modifiez le fichier 'jsx/App/LandingPage.jsx', puis exécutez webpack pour que vos modifications prennent effet. </p>
+      <p>Bienvenue! Vous avez trouvé le site LingView pour le projet de documentation de la langue Enenlhet. Utilisez ce site pour voir nos textes narratifs actuellement transcrits et traduits avec des locuteurs de Pozo Amarillo et Casanillo, Paraguay.</p>
+      <p>Bienvenue! Ce site Web est alimenté par <a href='https://github.com/BrownCLPS/LingView/' target="_blank" rel="noopener noreferrer">Lingview</a>. Cliquez <a href='#/index'>"Index des Textes"</a> pour voir quelques exemples de textes.</p>
     </div>,
 };
 
