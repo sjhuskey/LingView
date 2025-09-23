@@ -11,7 +11,7 @@ This code in this fork has been refactored to use HTML 5 elements for audio and 
 1. Clone this repository onto your computer. From the command line, `git clone git@github.com:sjhuskey/LingView.git`. Alternatively, download the [zip file](https://github.com/sjhuskey/LingView/archive/refs/heads/master.zip) and expand it on your computer.
 2. Install [Node Version Manager](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating): 
 3. Install Node version 16: `nvm install 16`
-4. Install Docker Desktop (optional, if you want to run LingView in a Docker container): [https://docs.docker.com/desktop/](https://docs.docker.com/desktop/)  
+4. Install Docker Desktop (optional, if you want to run LingView in a Docker container): [https://docs.docker.com/desktop/](https://docs.docker.com/desktop/) 
 
 ## Usage
 
@@ -70,6 +70,26 @@ lingview-app  | [0] Successfully built and wrote search index.
 ```
 
 That happens when your file is not associated with a video file. It is normal; nothing is really missing. As long as there is an associated audio file, you should be able to use LingView as expected.
+
+## To host on GitHub with Pages
+
+This repository includes a custom action (`.github/workflows/build-and-deploy.yml`) for building and deploying the LingView site with GitHub actions.
+
+Assuming that you are starting from a repository on your own computer, do the following to host your site on GitHub:
+
+1. Log on at [https://github.com/](https://github.com/) and create a new repository called "LingView". Do not add anything at this time. Just click "Create repository".
+2. Click on the "Settings" tab of your empty repository.
+3. Click on the "Pages" link in "Settings"
+4. Under "Build and deployment", select "GitHub Actions"
+5. On your computer, use a command line tool (e.g., Terminal) to navigate to the LingView directory. Execute the following commands:
+
+```bash
+git remote add origin git@github.com:<YOUR_USER_NAME>/<YOUR_REPOSITORY_NAME>.git
+git branch -M main
+git push -u origin main
+```
+
+The custom action should become active when you push your repository to GitHub. It will take a minute or so to build the site. You can go to the "Actions" tab of your GitHub repository to see its progress.
 
 ## For help
 
