@@ -204,6 +204,7 @@
         "tier": "Transcripcion"
       },
       "S2": {
+        "name": "Sabelino Metai",
         "tier": "ASR"
       }
     }
