@@ -159,5 +159,53 @@
         "tier": "transcript_RH"
       }
     }
+  },
+  "cbc5ff68-ecc1-414f-9860-cb913ab68e83": {
+    "timed": true,
+    "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+    "title": {
+      "_default": "BT"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "BT.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/5/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Sabelino Metai"
+    ],
+    "xml_file_name": "BT.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Transcripcion": {
+        "subdivided": false
+      },
+      "Traduccion": {
+        "subdivided": false
+      },
+      "ASR": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "Sabelino Metai",
+        "tier": "Transcripcion"
+      },
+      "S2": {
+        "tier": "ASR"
+      }
+    }
   }
 }

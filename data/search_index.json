@@ -1,5 +1,8 @@
 {
   "tier IDs": [
+    "Transcripcion",
+    "Traduccion",
+    "ASR",
     "transcript_RH",
     "transcript_MR",
     "translation_MR",
@@ -20,6 +23,1835 @@
     "frase en a'ingae (ortografía Borman)"
   ],
   "sentences": [
+    {
+      "num_slots": 1,
+      "text": "ntas altennamata ko'o temakha,",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 1010,
+      "dependents": {
+        "Transcripcion": {
+          "value": "ntas altennamata ko'o temakha,"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "bueno voy a contar sobre"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ntase altennamata ko'o temakha",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 1010,
+      "dependents": {
+        "ASR": {
+          "value": "ntase altennamata ko'o temakha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "asnema",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 4820,
+      "dependents": {
+        "Transcripcion": {
+          "value": "asnema"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "donde vivo"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "a snema",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 4820,
+      "dependents": {
+        "ASR": {
+          "value": "a snema"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "Metkanekha Pa'at",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 6480,
+      "dependents": {
+        "Transcripcion": {
+          "value": "Metkanekha Pa'at"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "en Pozo Amarilo"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "metkanekha pa'at",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 6480,
+      "dependents": {
+        "ASR": {
+          "value": "metkanekha pa'at"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "asnek ko Metkanekha Pa'at",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 10580,
+      "dependents": {
+        "Transcripcion": {
+          "value": "asnek ko Metkanekha Pa'at"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "estoy en Pozo Amarillo"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "asnek ko metkanekha pa'at",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 10580,
+      "dependents": {
+        "ASR": {
+          "value": "asnek ko metkanekha pa'at"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ntase snema",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 13885,
+      "dependents": {
+        "Transcripcion": {
+          "value": "ntase snema"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "estoy bien"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ntase snema",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 13885,
+      "dependents": {
+        "ASR": {
+          "value": "ntase snema"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma svetai'a ngkolatsekama",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 15985,
+      "dependents": {
+        "Transcripcion": {
+          "value": "mamma svetai'a ngkolatsekama"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "no veo nada de cosas feas"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma svetai'a ngkolatsekama",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 15985,
+      "dependents": {
+        "ASR": {
+          "value": "mamma svetai'a ngkolatsekama"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha koka",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 19465,
+      "dependents": {
+        "Transcripcion": {
+          "value": "vanlha koka"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "solo pero"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha koka",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 19465,
+      "dependents": {
+        "ASR": {
+          "value": "vanlha koka"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "akientalhno ennengko ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 22210,
+      "dependents": {
+        "Transcripcion": {
+          "value": "akientalhno ennengko "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "lo mas pesado"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "akientalhno ennengko'o",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 22210,
+      "dependents": {
+        "ASR": {
+          "value": "akientalhno ennengko'o"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "metka",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 25090,
+      "dependents": {
+        "Transcripcion": {
+          "value": "metka"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "no hay"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "metka",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 25090,
+      "dependents": {
+        "ASR": {
+          "value": "metka"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nennemakha nentema nak ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 26620,
+      "dependents": {
+        "Transcripcion": {
+          "value": "nennemakha nentema nak "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "decimos nuestras casas"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nennemakha' ntema nak",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 26620,
+      "dependents": {
+        "ASR": {
+          "value": "nennemakha' ntema nak"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "metka nak nennemakha",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 28695,
+      "dependents": {
+        "Transcripcion": {
+          "value": "metka nak nennemakha"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "no tenemos nuestras propias casas"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "metka nak nemnengak",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 28695,
+      "dependents": {
+        "ASR": {
+          "value": "metka nak nemnengak"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "metka nak pa'at aktaqmanma ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 30835,
+      "dependents": {
+        "Transcripcion": {
+          "value": "metka nak pa'at aktaqmanma "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "noy hay casas lindas"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "metka nak pa'at aktaqmanma",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 30835,
+      "dependents": {
+        "ASR": {
+          "value": "metka nak pa'at aktaqmanma"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 34370,
+      "dependents": {
+        "Transcripcion": {
+          "value": "vanlha"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "solo"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 34370,
+      "dependents": {
+        "ASR": {
+          "value": "vanlha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "aimelhko kom'a ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 37315,
+      "dependents": {
+        "Transcripcion": {
+          "value": "aimelhko kom'a "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "esto me falta allá"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "aimelhko kom'o",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 37315,
+      "dependents": {
+        "ASR": {
+          "value": "aimelhko kom'o"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mangeliamota tangkelha nentangkelha ennengko kmama'o",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 40025,
+      "dependents": {
+        "Transcripcion": {
+          "value": "mangeliamota tangkelha nentangkelha ennengko kmama'o"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "no sabemos que hacer cuando llueve"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mangeliamota ktangkelha nentangkelha ennengko akmam'o",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 40025,
+      "dependents": {
+        "ASR": {
+          "value": "mangeliamota ktangkelha nentangkelha ennengko akmam'o"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha ntase snema ntasek na",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 45995,
+      "dependents": {
+        "Transcripcion": {
+          "value": "vanlha ntase snema ntasek na"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "a pesar de esto estoy muy bien"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha ntase snema ntasek na",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 45995,
+      "dependents": {
+        "ASR": {
+          "value": "vanlha ntase snema ntasek na"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "skelvetai'a snemo lhema ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 50015,
+      "dependents": {
+        "Transcripcion": {
+          "value": "skelvetai'a snemo lhema "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "estoy observando a mi vecino "
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "skelvetai'a snemo lhema",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 50015,
+      "dependents": {
+        "ASR": {
+          "value": "skelvetai'a snemo lhema"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mpaihakhe mota evalhok",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 53805,
+      "dependents": {
+        "Transcripcion": {
+          "value": "mpaihakhe mota evalhok"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "estoy muy contento siempre"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mpaihakhe mota evalhok",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 53805,
+      "dependents": {
+        "ASR": {
+          "value": "mpaihakhe mota evalhok"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "apkellan'a mota moklhem'a piesta panko'o akno ko'olha'",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 57620,
+      "dependents": {
+        "Transcripcion": {
+          "value": "apkellan'a mota moklhem'a piesta panko'o akno ko'olha'"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "ellos siempre estan organizando sus fiestas como yo"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "apkellan'a mota moklhem'a piesta panko'o akno ko'o lha'",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 57620,
+      "dependents": {
+        "ASR": {
+          "value": "apkellan'a mota moklhem'a piesta panko'o akno ko'o lha'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "navek kolha mo'ok askelan'a  mota kolha",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 63110,
+      "dependents": {
+        "Transcripcion": {
+          "value": "navek kolha mo'ok askelan'a  mota kolha"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "el mismo que yo también estoy organizando"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nnavek kolha mo'ok askelan'a mota kolha",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 63110,
+      "dependents": {
+        "ASR": {
+          "value": "nnavek kolha mo'ok askelan'a mota kolha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "aniem'o",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 67220,
+      "dependents": {
+        "Transcripcion": {
+          "value": "aniem'o"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "porque"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "aniem'o",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 67220,
+      "dependents": {
+        "ASR": {
+          "value": "aniem'o"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "entavana'a aktengama ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 69105,
+      "dependents": {
+        "Transcripcion": {
+          "value": "entavana'a aktengama "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "nuestro nieto está creciendo"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "entavana'a aktengama",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 69105,
+      "dependents": {
+        "ASR": {
+          "value": "entavana'a aktengama"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nengvanlha nak he ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 72685,
+      "dependents": {
+        "Transcripcion": {
+          "value": "nengvanlha nak he "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "en este momento "
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nengvanlha nak heg",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 72685,
+      "dependents": {
+        "ASR": {
+          "value": "nengvanlha nak heg"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "koka",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 75295,
+      "dependents": {
+        "Transcripcion": {
+          "value": "koka"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "pero "
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kaka",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 75295,
+      "dependents": {
+        "ASR": {
+          "value": "kaka"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ntakmelakhonhan",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 79305,
+      "dependents": {
+        "Transcripcion": {
+          "value": "ntakmelakhonhan"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "es muy bien y"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "taqmelakonhan",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 79305,
+      "dependents": {
+        "ASR": {
+          "value": "taqmelakonhan"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma ktemakha ko niekhe snema ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 82215,
+      "dependents": {
+        "Transcripcion": {
+          "value": "mamma ktemakha ko niekhe snema "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "no hay nada mal, estoy bien"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma ktemakha niekhe snema",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 82215,
+      "dependents": {
+        "ASR": {
+          "value": "mamma ktemakha niekhe snema"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kelha ntangkok na ketlhengkap",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 85130,
+      "dependents": {
+        "Transcripcion": {
+          "value": "kelha ntangkok na ketlhengkap"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "Creo que ustedes [también] tienen esta experiencia"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kelha ntangkok na ketlhengkap",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 85130,
+      "dependents": {
+        "ASR": {
+          "value": "kelha ntangkok na ketlhengkap"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma vanlha svet'a mota ketsek aniem paihakhe mota evalhok",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 89990,
+      "dependents": {
+        "Transcripcion": {
+          "value": "mamma vanlha svet'a mota ketsek aniem paihakhe mota evalhok"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "no hay, solo estoy viendo siempre mi chacra pequeña, siempre estoy contento"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma vanlha svet'a mota tketsek anie paihakhe mota evalhok",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 89990,
+      "dependents": {
+        "ASR": {
+          "value": "mamma vanlha svet'a mota tketsek anie paihakhe mota evalhok"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nelkakhama",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 96505,
+      "dependents": {
+        "Transcripcion": {
+          "value": "nelkakhama"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "nuestra chacra"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nelkakhama",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 96505,
+      "dependents": {
+        "ASR": {
+          "value": "nelkakhama"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "netamen ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 97945,
+      "dependents": {
+        "Transcripcion": {
+          "value": "netamen "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "después "
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "netamen",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 97945,
+      "dependents": {
+        "ASR": {
+          "value": "netamen"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kolhva koka'",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 99940,
+      "dependents": {
+        "Transcripcion": {
+          "value": "kolhva koka'"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "lo más nuevo "
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kolhva koka",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 99940,
+      "dependents": {
+        "ASR": {
+          "value": "kolhva koka"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma svengkepmo kolhvave nak maskek na smakmengkaha",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 101615,
+      "dependents": {
+        "Transcripcion": {
+          "value": "mamma svengkepmo kolhvave nak maskek na smakmengkaha"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "no salgo a otro lado, ya no trabajo más"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma svengkepmo kolhvave nak maskek na smakmengkaha",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 101615,
+      "dependents": {
+        "ASR": {
+          "value": "mamma svengkepmo kolhvave nak maskek na smakmengkaha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "asnema henkek na ntak ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 106495,
+      "dependents": {
+        "Transcripcion": {
+          "value": "asnema henkek na ntak "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "estoy siempre en casa "
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "asnema henkek nantak",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 106495,
+      "dependents": {
+        "ASR": {
+          "value": "asnema henkek nantak"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha iakvatakhoho",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 108475,
+      "dependents": {
+        "Transcripcion": {
+          "value": "vanlha iakvatakhoho"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "solo un ratito"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha iaqvatakho",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 108475,
+      "dependents": {
+        "ASR": {
+          "value": "vanlha iaqvatakho"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "smakmema mota velengko skapvakhe motaha",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 110830,
+      "dependents": {
+        "Transcripcion": {
+          "value": "smakmema mota velengko skapvakhe motaha"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "trabajé con los Menonitas y me salvó"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "smakmema mota velengko skapvakhe motaha",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 110830,
+      "dependents": {
+        "ASR": {
+          "value": "smakmema mota velengko skapvakhe motaha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "avanhek nan",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 114650,
+      "dependents": {
+        "Transcripcion": {
+          "value": "avanhek nan"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "es muy grande"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "avanha kna",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 114650,
+      "dependents": {
+        "ASR": {
+          "value": "avanha kna"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "hengelasekhai'o velengko hengenmeske mota nemmakmekama tkok",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 116400,
+      "dependents": {
+        "Transcripcion": {
+          "value": "hengelasekhai'o velengko hengenmeske mota nemmakmekama tkok"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "los Menonitas nos ayudan, nos dan trabajo"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "hengelasekhai'o velengko hengnmeske mota nemmakmekama tkok",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 116400,
+      "dependents": {
+        "ASR": {
+          "value": "hengelasekhai'o velengko hengnmeske mota nemmakmekama tkok"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kahe Metkanekha Pa'at ntase snema mota kmaska motak problema no nak ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 121095,
+      "dependents": {
+        "Transcripcion": {
+          "value": "kahe Metkanekha Pa'at ntase snema mota kmaska motak problema no nak "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "acá en Pozo Amarillo mi vida siempre es buena, siempre sin problemas"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kahe metkanekha pa'at ntase snema mota kmaska mota problema no nak",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 121095,
+      "dependents": {
+        "ASR": {
+          "value": "kahe metkanekha pa'at ntase snema mota kmaska mota problema no nak"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "Metkanekha Pa'at kanhan ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 127905,
+      "dependents": {
+        "Transcripcion": {
+          "value": "Metkanekha Pa'at kanhan "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "en Pozo Amarillo y también "
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "metkanekha pa'at kanhan",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 127905,
+      "dependents": {
+        "ASR": {
+          "value": "metkanekha pa'at kanhan"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ennengko nak heng",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 131950,
+      "dependents": {
+        "Transcripcion": {
+          "value": "ennengko nak heng"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "nosotros de acá "
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ennengko nak heng",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 131950,
+      "dependents": {
+        "ASR": {
+          "value": "ennengko nak heng"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "Tobati",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 134400,
+      "dependents": {
+        "Transcripcion": {
+          "value": "Tobati"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "en Tobatí"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tobating",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 134400,
+      "dependents": {
+        "ASR": {
+          "value": "tobating"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma'",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 135875,
+      "dependents": {
+        "Transcripcion": {
+          "value": "mamma'"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "nada"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma'",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 135875,
+      "dependents": {
+        "ASR": {
+          "value": "mamma'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "Union",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 137090,
+      "dependents": {
+        "Transcripcion": {
+          "value": "Union"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "[Nueva] Unión"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "union",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 137090,
+      "dependents": {
+        "ASR": {
+          "value": "union"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma ntse mota sloma mamma ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 138335,
+      "dependents": {
+        "Transcripcion": {
+          "value": "mamma ntse mota sloma mamma "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "nada, estoy muy bien donde vivo "
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma ntase mota sloma mamma",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 138335,
+      "dependents": {
+        "ASR": {
+          "value": "mamma ntase mota sloma mamma"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nema heihengekama la'a mamma mpaihakhe mota evalhok",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 142515,
+      "dependents": {
+        "Transcripcion": {
+          "value": "nema heihengekama la'a mamma mpaihakhe mota evalhok"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "nadie me empuja, siempre estoy feliz"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nema heihengakama la'a pt mpaihakhe mota evalhok",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 142515,
+      "dependents": {
+        "ASR": {
+          "value": "nema heihengakama la'a pt mpaihakhe mota evalhok"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kahe alheianma nak aknem anak he ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 147115,
+      "dependents": {
+        "Transcripcion": {
+          "value": "kahe alheianma nak aknem anak he "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "este dia lo que estoy bien [aquí se dice en este día ?]"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kahe alhianma nak aknem anak he",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 147115,
+      "dependents": {
+        "ASR": {
+          "value": "kahe alhianma nak aknem anak he"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ellengak hatoka'",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 150825,
+      "dependents": {
+        "Transcripcion": {
+          "value": "ellengak hatoka'"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "ustedes van a escuchar"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ellengakhat ka",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 150825,
+      "dependents": {
+        "ASR": {
+          "value": "ellengakhat ka"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ntase niekhe'",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 153715,
+      "dependents": {
+        "Transcripcion": {
+          "value": "ntase niekhe'"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "esta muy bien"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ntase niekhe",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 153715,
+      "dependents": {
+        "ASR": {
+          "value": "ntase niekhe"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma aktemakha'",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 155525,
+      "dependents": {
+        "Transcripcion": {
+          "value": "mamma aktemakha'"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "no hay nada"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma ktemakha",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 155525,
+      "dependents": {
+        "ASR": {
+          "value": "mamma ktemakha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "akpaihekha evalhok ko mota pketko'ok ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 157510,
+      "dependents": {
+        "Transcripcion": {
+          "value": "akpaihekha evalhok ko mota pketko'ok "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "estoy feliz, siempre los chicos"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "akpaihekha evalhok ko mota pketko'ok",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 157510,
+      "dependents": {
+        "ASR": {
+          "value": "akpaihekha evalhok ko mota pketko'ok"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ntasek anke",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 162530,
+      "dependents": {
+        "Transcripcion": {
+          "value": "ntasek anke"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "estan muy bien "
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ntasek anke",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 162530,
+      "dependents": {
+        "ASR": {
+          "value": "ntasek anke"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ka pketko'ok elienlhanmo aktemakha takmanma",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 164810,
+      "dependents": {
+        "Transcripcion": {
+          "value": "ka pketko'ok elienlhanmo aktemakha takmanma"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "a los jóvenes, ustedes pueden buscar cosas buenas"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "a pketko'ok elienlhanmo ktemakha takmanma",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 164810,
+      "dependents": {
+        "ASR": {
+          "value": "a pketko'ok elienlhanmo ktemakha takmanma"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mangkolhnok anieplavkesek ma'a mo'ok qaselhaha",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 169895,
+      "dependents": {
+        "Transcripcion": {
+          "value": "mangkolhnok anieplavkesek ma'a mo'ok qaselhaha"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "no por ejemplo seguir otra cosa"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mangkolhnok anieplavkesek ma'a mo'ok qaselhaha",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 169895,
+      "dependents": {
+        "ASR": {
+          "value": "mangkolhnok anieplavkesek ma'a mo'ok qaselhaha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha mangkolatsema nke mangkolha ngkolka evalhok",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 173535,
+      "dependents": {
+        "Transcripcion": {
+          "value": "vanlha mangkolatsema nke mangkolha ngkolka evalhok"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "solo que es feo no me gusta "
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha mankolatsema nke mangkolha ngkolka evalhok",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 173535,
+      "dependents": {
+        "ASR": {
+          "value": "vanlha mankolatsema nke mangkolha ngkolka evalhok"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "escuela ntase nengiangveiam engketkok",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 177300,
+      "dependents": {
+        "Transcripcion": {
+          "value": "escuela ntase nengiangveiam engketkok"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "la escuela es muy buena para que los jovenes aprendan"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "escuela ntase escuela nengiangveiam engketkok",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 177300,
+      "dependents": {
+        "ASR": {
+          "value": "escuela ntase escuela nengiangveiam engketkok"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ko'o lhta emanie' siangveiam escuela mokhom alhengkeskangke",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 181875,
+      "dependents": {
+        "Transcripcion": {
+          "value": "ko'o lhta emanie' siangveiam escuela mokhom alhengkeskangke"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "primero aprendí en la escuela, y incluso ahora sigo"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ko'o lhhta emanie siangveiam escuela mokhomom alhengkeska nke'",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 181875,
+      "dependents": {
+        "ASR": {
+          "value": "ko'o lhhta emanie siangveiam escuela mokhomom alhengkeska nke'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "skelanei'o mota temakha letra nelqasekama nak ",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 188805,
+      "dependents": {
+        "Transcripcion": {
+          "value": "skelanei'o mota temakha letra nelqasekama nak "
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "yo siempre estaba mirando letras para escribir"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "skelanei'a mota temakha letra nelqasekama nak",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 188805,
+      "dependents": {
+        "ASR": {
+          "value": "skelanei'a mota temakha letra nelqasekama nak"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ka ntemak ma'a",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 194385,
+      "dependents": {
+        "Transcripcion": {
+          "value": "ka ntemak ma'a"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "asi fue"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ka ntemak ma'a",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 194385,
+      "dependents": {
+        "ASR": {
+          "value": "ka ntemak ma'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha kelha hengke",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 196495,
+      "dependents": {
+        "Transcripcion": {
+          "value": "vanlha kelha hengke"
+        },
+        "Traduccion": [
+          {
+            "start_slot": 0,
+            "end_slot": 1,
+            "value": "creo que es todo"
+          }
+        ]
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha kelha hengke",
+      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab68e83",
+      "title": "BT",
+      "start_time_ms": 196495,
+      "dependents": {
+        "ASR": {
+          "value": "vanlha kelha hengke"
+        }
+      }
+    },
     {
       "num_slots": 1,
       "text": "por favor",
