@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-10-05T17:56:09-05:00" VERSION="3.0" FORMAT="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+	<HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+		<MEDIA_DESCRIPTOR MEDIA_URL="/Users/sjhuskey/JE_07.09.2025_Hapong_Aniep.wav" RELATIVE_MEDIA_URL="JE_07.09.2025_Hapong_Aniep.wav" MIME_TYPE="audio/x-wav" />
+		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
+		<PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:cbc5ff68-ecc1-414f-9860-cb913ab683gt</PROPERTY>
+		<PROPERTY NAME="ANNOTATOR">ASR (Wav2Vec2 Enenlhet)</PROPERTY>
+		<PROPERTY NAME="AUTHOR">Generated automatically</PROPERTY>
+		</HEADER>
+	<TIME_ORDER>
+		<TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0" />
+		<TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="20000" />
+		<TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="20000" />
+		<TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="40000" />
+		<TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="40000" />
+		<TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="60000" />
+		<TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="60000" />
+		<TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="80000" />
+		<TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="80000" />
+		<TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="100000" />
+		<TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="100000" />
+		<TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="120000" />
+		<TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="120000" />
+		<TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="140000" />
+		<TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="140000" />
+		<TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="160000" />
+		<TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="160000" />
+		<TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="180000" />
+		<TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="180000" />
+		<TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="200000" />
+		<TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="200000" />
+		<TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="220000" />
+		<TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="220000" />
+		<TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="240000" />
+		<TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="240000" />
+		<TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="260000" />
+		<TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="260000" />
+		<TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="280000" />
+		<TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="280000" />
+		<TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="300000" />
+		<TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="300000" />
+		<TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="320000" />
+		<TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="320000" />
+		<TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="340000" />
+		<TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="340000" />
+		<TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="360000" />
+		<TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="360000" />
+		<TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="380000" />
+		<TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="380000" />
+		<TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="400000" />
+		<TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="400000" />
+		<TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="420000" />
+		<TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="420000" />
+		<TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="430889" />
+		</TIME_ORDER>
+	<TIER TIER_ID="default" LINGUISTIC_TYPE_REF="default-lt" />
+	<TIER TIER_ID="ASR" LINGUISTIC_TYPE_REF="default-lt">
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+				<ANNOTATION_VALUE>nelvakteklhek hapong aniep o aknem anako ngvaktek nan aniem'o mokhe' vanlhak ntetkasema nhan aktemakha lhennenga temma kieto hapong aniep ka nhan ma'a tomakh apvetek iangqalho namok</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+				<ANNOTATION_VALUE>kakhaiangkelha enenlhet kakhaiangkek nak enenlhet  lh190 lhema nekha' haponganiep kakhangkek malha cuare kelhaacolonia tres akvesai'a ntomakha apvetek nietnek ma'a alha 19 enenlhet kakhaikamok pkelvetsai'a toba avanhek alhta apkelvetai'a</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+				<ANNOTATION_VALUE>nietnek aniep apanko'ok nietnek apkelha aikamok ietnek nan kaleto apanko'ok lhennenga ka  ngkeltaek ngkonnak hengke'e lhema enialh'akvo'o nak henelvaktengke'e ieto hapong aniep aisekhek temahapong aniep apkelvaktek nanlhema a</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+				<ANNOTATION_VALUE>vesa nhan nakha nialpa' nepvatemma nak kanengaqtenak nakhanialpa nieto lhema lokal ma'a nietnek nv niavek na he amaika engankokk keltangkoihok ma'a ennengko nkonne nnekev'amaika nak kelqasek nahan ntalhesalhkek akvesai'a kon</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts11">
+				<ANNOTATION_VALUE>apkelavakha ko ne nekev' apkelvesia'a tova nietneklhek akvetai'a nietnek na akvetai'a lhennenga enenlhet temmak kakolhave nak o keltaiekhengkota vanlha koka mamma temma mamma tem nan kolhva' nietnekakvetai'a alhnankok engialhnenk akvai'a nak he</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+				<ANNOTATION_VALUE>kanhan malengaieteklhema iokha lhema koka iokha lhmo' apienai'aengkelha lhnak iemmen akvesai'a malenga nietek akvesai'a apienaiangkelha iemmen enenlhet apiamakha iemen malenga niettek nietnek ma'a ngvet'ak nan</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+				<ANNOTATION_VALUE>apienaihen kelha iemmen keliakmhong kelha nhan ngvet'ak nan ka nelvaktamo nak ko'o lskeltennama o aktemakha nellomakha ko nenekev' apkelvesai'a apkelvesa nhan tovaka lhenkek alhenkek akvesai'a akvetai'a aniep nan'ak netlhe</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+				<ANNOTATION_VALUE>nkeklhek aniepalhamalh kelha mota ieto nak o lhema estancia nak ma'a lhennenga tep ankek mision anak lhnk alhenkek lhek ko'o alhamalhkelham'a akvesai'a akvesai'a alhamalhketa aktek kanietepepao kalekek t</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+				<ANNOTATION_VALUE>ek lhamakho ktemakha' alhammalhkelham'a ka aniem'ok haponganiep tomakha apvetekpotahan nakham ialpa' niangkqalho namokka nnetlhen annengkoma kolhave na maa ngkoihokhe akvo'o nak vanlha kelha</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+				<ANNOTATION_VALUE>kanal akvesai' kola kvesaia lhene apong aniep apong aniepiamankalho na mok ko akvesaia mkhe kanangalema oo colonia malenganietek ay'untajamar para ava</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+				<ANNOTATION_VALUE>kenmakmekama kelhainalha lhe nietne' vanlha aklheno nietnek nenmakenmakmekamaengeliapmak</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts25">
+				<ANNOTATION_VALUE>o kelloka kellomakhakonne nak nenekev' kaenmakmekama lhta mok lhema kon ne enekev' mak nan ngkoiho' alhenkek nan ko'o to nak ko engeliepma lhta nietne pkenmakmekama kon nem enekev' ieto lhema lhtanciahta ntemak ko asvetai'a ma'a ngkoihok hen ama</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+				<ANNOTATION_VALUE>ka nak nietnek na pkenmakmekama aniep aniep anak kenmakmekamahapon aniep tomakha apvetek iangkalhanamok kenmakmemanhan kvesai'a aniep kienaikamok peia sepo lhamakho aktemakha aklheiam aelammalhka lhennenga vanlha pkenmamekama enenlhet</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+				<ANNOTATION_VALUE>a'akestak astak ko skeaskanongke'esi'a nietnek nan ma'ak na ngkoihok kelpaqvamekamok nietnek nahan kelvetai'a pomap nlhokalanhanpolhap pelhapen keltak nan ngkoihok temakha nialva</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+				<ANNOTATION_VALUE>pnapnaqseklhamakho aktemakha' apkelvetai'a enenlhet lhennenga mamma apkelletsekama mamma qaselha panko'ok vanlhao semheng a mota amaniek lhengvaapkelvetai'a engeliapmak lhennenga semhe vanlha semheng apketlhelhma'a pkelve</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts33">
+				<ANNOTATION_VALUE>takhe mota akvesai'a lhema qaselha nevhak ma'a ngkoihokha heamaika'a nak se' asaakelha nlhe nak mok tamniorolmek ha' centro nkek lhaie ka hemmanlholham'a temma nhana</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+				<ANNOTATION_VALUE>noka skai'akmok ma'a nietnek nan aklheia ngkeltaiak na ngvoihok ma'a temakha lhlhema tema ietoma konennekev' lhek mision mision alhta kvesai'ao nietnek ma escuela panko'ok nem atkanematkak escuela kelentalhnek ma'a nematka kelempai'o k</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+				<ANNOTATION_VALUE>lelhiaiamo nematkak o lhennenga kelelhiakme mota nematkak nieto escuela yd cetro nak alhta ntemak kelelhiakmek nan netamen ngvangka pkakhaikamok kelanelhelhema escuela colonia uno pota nhan hen colonia do colonia tkl</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+				<ANNOTATION_VALUE>anelhkek kelentalhnek nan escuela temak ko svetai'a temakha eietkok asemepasa ano alia nelvet'an hengko ngkeltamengko ihokha hengamaika engankok kelma ngkoniakhak aniama mokhek ankek aniem ei'akha kelhaonietneklhek</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
+				<ANNOTATION_VALUE>neltennaikama manolo ntase'vlha gkolaktemakha kolhveva nak vanlha nietnek na pkenmakmekama nietne' vanlha pkenvakmengka vanl</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
+				<ANNOTATION_VALUE>hta lhennenga mamma patakkom mamma'mama patak kom lhennenga mamma sverto mamma sero nke enenlhet lhennenga mamma lhennenga lhennenga mamma'notiene svelto nak pala elhtancia asioma</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		<ANNOTATION>
+			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+				<ANNOTATION_VALUE>urovestapoepocetito ko campra as pasase agola dia si' netavienasai vanlha</ANNOTATION_VALUE>
+				</ALIGNABLE_ANNOTATION>
+			</ANNOTATION>
+		</TIER>
+	<LINGUISTIC_TYPE LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true" GRAPHIC_REFERENCES="false" />
+	<CONSTRAINT STEREOTYPE="Time_Subdivision" DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Subdivision" DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" />
+	<CONSTRAINT STEREOTYPE="Symbolic_Association" DESCRIPTION="1-1 association with a parent annotation" />
+	<CONSTRAINT STEREOTYPE="Included_In" DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" />
+	</ANNOTATION_DOCUMENT>

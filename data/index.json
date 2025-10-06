@@ -81,6 +81,9 @@
     "xml_file_name": "20170804_kuke_chiste_FACQ.eaf",
     "source_filetype": "ELAN",
     "tier IDs": {
+      "Underlying form": {
+        "subdivided": true
+      },
       "Gloss": {
         "subdivided": true
       },
@@ -93,10 +96,16 @@
       "Morfema": {
         "subdivided": true
       },
+      "--": {
+        "subdivided": false
+      },
       "English": {
         "subdivided": true
       },
       "Español": {
+        "subdivided": true
+      },
+      "-": {
         "subdivided": true
       },
       "A'ingae": {
@@ -205,6 +214,42 @@
       },
       "S2": {
         "name": "Sabelino Metai",
+        "tier": "ASR"
+      }
+    }
+  },
+  "cbc5ff68-ecc1-414f-9860-cb913ab683gt": {
+    "timed": false,
+    "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
+    "title": {
+      "_default": "JE_07092025_Hapong_Aniep"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/6/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "JE_07092025_Hapong_Aniep.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "ASR": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
         "tier": "ASR"
       }
     }
