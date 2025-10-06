@@ -27,526 +27,3634 @@
   "sentences": [
     {
       "num_slots": 1,
-      "text": "nelvakteklhek hapomg aniep o aknem anako ngvaktek nan aniem'o mokhe'",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
+      "text": "nelvakteklhe",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
       "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 0,
+      "start_time_ms": 2400,
       "dependents": {
         "ASR": {
-          "value": "nelvakteklhek hapomg aniep o aknem anako ngvaktek nan aniem'o mokhe'"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "vanlhake ntetkasema nhan aktemakha lhennenga temma kieto hapvo aniep ka nhan ma'a tomakh apvetek iangqalho namok",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 10000,
-      "dependents": {
-        "ASR": {
-          "value": "vanlhake ntetkasema nhan aktemakha lhennenga temma kieto hapvo aniep ka nhan ma'a tomakh apvetek iangqalho namok"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "kakhaiangkelha enenlhet kakhaiangkek nak enenlhet ma lh 10 lhema nekha' haponganiep kakhangkek malha cuar kelha",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 20000,
-      "dependents": {
-        "ASR": {
-          "value": "kakhaiangkelha enenlhet kakhaiangkek nak enenlhet ma lh 10 lhema nekha' haponganiep kakhangkek malha cuar kelha"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "lhacolonia tres akvesai'aha ntomakha apvetek nietnek ma'a malha 19 enenlhet kakhaikamok ppkelvetsai'a tova avanhek alhta apkelvetai'a",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 30000,
-      "dependents": {
-        "ASR": {
-          "value": "lhacolonia tres akvesai'aha ntomakha apvetek nietnek ma'a malha 19 enenlhet kakhaikamok ppkelvetsai'a tova avanhek alhta apkelvetai'a"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "nietnek aniep apanko'ok nietnek apkelha aikamok nietnek nan kaleto apanko'ok lhennenga ka  ngkeltaek ngkonnak hengke'e",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 40000,
-      "dependents": {
-        "ASR": {
-          "value": "nietnek aniep apanko'ok nietnek apkelha aikamok nietnek nan kaleto apanko'ok lhennenga ka  ngkeltaek ngkonnak hengke'e"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "lhema enialh'ak vo'o nak henelvaktengke'e ieto hapong aniep aisekhek temahapong aniep apkelvaktek nan lhema a",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 50000,
-      "dependents": {
-        "ASR": {
-          "value": "lhema enialh'ak vo'o nak henelvaktengke'e ieto hapong aniep aisekhek temahapong aniep apkelvaktek nan lhema a"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "vesa nhan nakha nialpa' nepvatemma nak ka nengaqtenak nakhanialpa niehong lhema lokal ma'a nietnek nive niavek na he amaika engan",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 60000,
-      "dependents": {
-        "ASR": {
-          "value": "vesa nhan nakha nialpa' nepvatemma nak ka nengaqtenak nakhanialpa niehong lhema lokal ma'a nietnek nive niavek na he amaika engan"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "kok keltangkoiok ma'a ennengko nkonne nenekev'amaika nak kelqasek nahan ntalhesalhkek akvesai'a kon",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 70000,
-      "dependents": {
-        "ASR": {
-          "value": "kok keltangkoiok ma'a ennengko nkonne nenekev'amaika nak kelqasek nahan ntalhesalhkek akvesai'a kon"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "apkelavakha ko nenekev' apkelvesi'a tova nietneklhek akvetai'a nietnek na akvetai'a lhennenga enenlhet temmak ka kolhave nak",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 80000,
-      "dependents": {
-        "ASR": {
-          "value": "apkelavakha ko nenekev' apkelvesi'a tova nietneklhek akvetai'a nietnek na akvetai'a lhennenga enenlhet temmak ka kolhave nak"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "o keltaiekhe ngkota vanlha koka mamma temma mamma tem nan kolhva nietnekakvetai'a alhnankok engialhneng akvai'a nak he",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 90000,
-      "dependents": {
-        "ASR": {
-          "value": "o keltaiekhe ngkota vanlha koka mamma temma mamma tem nan kolhva nietnekakvetai'a alhnankok engialhneng akvai'a nak he"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "kanhan malengaietekh lhema iokha lhema koka iokha lhmo'o apienaiamengkelha lhnak iemmen akvesai'a",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 100000,
-      "dependents": {
-        "ASR": {
-          "value": "kanhan malengaietekh lhema iokha lhema koka iokha lhmo'o apienaiamengkelha lhnak iemmen akvesai'a"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "malenga ietek akvesai'a apienaiangkelha iemmen enenlhet apiamakha iemen malenga niettek nietnek ma'a ngvet'ak nan",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 110000,
-      "dependents": {
-        "ASR": {
-          "value": "malenga ietek akvesai'a apienaiangkelha iemmen enenlhet apiamakha iemen malenga niettek nietnek ma'a ngvet'ak nan"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "apienahen kelha iemmen keliakmong kelha nhan ngvet'ak nan kan nelvaktamo nak ko'o lskeltennama o aktemakha nellomakha",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 120000,
-      "dependents": {
-        "ASR": {
-          "value": "apienahen kelha iemmen keliakmong kelha nhan ngvet'ak nan kan nelvaktamo nak ko'o lskeltennama o aktemakha nellomakha"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "gko nenekev' apkelvesai'a apkelvesa nhan tovaka lhenkek alhenkek akvesai'a akvetai'a aniep nahan'ak netlh",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 130000,
-      "dependents": {
-        "ASR": {
-          "value": "gko nenekev' apkelvesai'a apkelvesa nhan tovaka lhenkek alhenkek akvesai'a akvetai'a aniep nahan'ak netlh"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "nkeklhek aniepalhamalh kelha mota ieto nak o lhema estancia nak ma'a lhennenga tep ankek mision anak lhenkek netlhe",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 140000,
-      "dependents": {
-        "ASR": {
-          "value": "nkeklhek aniepalhamalh kelha mota ieto nak o lhema estancia nak ma'a lhennenga tep ankek mision anak lhenkek netlhe"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "alhenkeklhek ko'o alhamalhkelham'a akvesai'a akvesai'a alhamalhketa aktek kanietepepa o kalekekt",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 150000,
-      "dependents": {
-        "ASR": {
-          "value": "alhenkeklhek ko'o alhamalhkelham'a akvesai'a akvesai'a alhamalhketa aktek kanietepepa o kalekekt"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "ek lhamakho ktemakha' alhammalhkelham'a ka aniem'ok hapoganiep tomakha apvetekkpota nhan nakha ialpa'",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 160000,
-      "dependents": {
-        "ASR": {
-          "value": "ek lhamakho ktemakha' alhammalhkelham'a ka aniem'ok hapoganiep tomakha apvetekkpota nhan nakha ialpa'"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "niangqalho namok ka nnetlhena nnengkoma kolhave na maa ngkoihokheg akvo'o nak vanlha kelha",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 170000,
-      "dependents": {
-        "ASR": {
-          "value": "niangqalho namok ka nnetlhena nnengkoma kolhave na maa ngkoihokheg akvo'o nak vanlha kelha"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "kanha akvesai' ko la kvesaia lhen apong aniep apon aniep",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 180000,
-      "dependents": {
-        "ASR": {
-          "value": "kanha akvesai' ko la kvesaia lhen apong aniep apon aniep"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "iamankalho na mok ko akvesaia mok he kanngalhkema o colonia maleng aietek ai'untajamar para ava",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 190000,
-      "dependents": {
-        "ASR": {
-          "value": "iamankalho na mok ko akvesaia mok he kanngalhkema o colonia maleng aietek ai'untajamar para ava"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "lhv nennengo dad abascoma a apnnakana",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 200000,
-      "dependents": {
-        "ASR": {
-          "value": "lhv nennengo dad abascoma a apnnakana"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "kenmakmekama kelhainalh lhe nietne' vanlha aklheno nietnek nekenmakmekamaengeliapmak",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 210000,
-      "dependents": {
-        "ASR": {
-          "value": "kenmakmekama kelhainalh lhe nietne' vanlha aklheno nietnek nekenmakmekamaengeliapmak"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "o kelloka kellomakhakonne nak nenekev' kaenmakmekama lhta mok lhema konnengenekev' mak nangkoiho' alhenkek nank",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 220000,
-      "dependents": {
-        "ASR": {
-          "value": "o kelloka kellomakhakonne nak nenekev' kaenmakmekama lhta mok lhema konnengenekev' mak nangkoiho' alhenkek nank"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "o'o ato nak k eeliepma lhta nietne apkenmakmekama konnem nekev' ieto lhema shtancia lhta ntemak ko asvetai'a ma'a ngkoiaokheng ama",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 230000,
-      "dependents": {
-        "ASR": {
-          "value": "o'o ato nak k eeliepma lhta nietne apkenmakmekama konnem nekev' ieto lhema shtancia lhta ntemak ko asvetai'a ma'a ngkoiaokheng ama"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "ka nak ietnek na pkenmakmekama aniep aniep anak kenmakmekamahapvo aniep tomakha apvetek iangqalhanam",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 240000,
-      "dependents": {
-        "ASR": {
-          "value": "ka nak ietnek na pkenmakmekama aniep aniep anak kenmakmekamahapvo aniep tomakha apvetek iangqalhanam"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "kenmakmemanhan kvesaia aniep kienaikamok peia sepo lhamakho aktemakha aklheigam aelammalhka lhennenga vanlha pkenmakme kama enenlhet",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 250000,
-      "dependents": {
-        "ASR": {
-          "value": "kenmakmemanhan kvesaia aniep kienaikamok peia sepo lhamakho aktemakha aklheigam aelammalhka lhennenga vanlha pkenmakme kama enenlhet"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "a'akestak astakko keaskanongke'e se'a nietnek nan ma'ak na ngkoihok kelpaqvamekamo",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 260000,
-      "dependents": {
-        "ASR": {
-          "value": "a'akestak astakko keaskanongke'e se'a nietnek nan ma'ak na ngkoihok kelpaqvamekamo"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "nietnek nahan kelvetai'a apomap nlhokalanhan polhap pelhapen keltak na ngkoih temakha nialva",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 270000,
-      "dependents": {
-        "ASR": {
-          "value": "nietnek nahan kelvetai'a apomap nlhokalanhan polhap pelhapen keltak na ngkoih temakha nialva"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "pnapnaqsek vanlhamakho aktemakha' apkelvetai'a enenlhet lhennenga mamma apkelletsekama mamma qaselha panko'ok",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 280000,
-      "dependents": {
-        "ASR": {
-          "value": "pnapnaqsek vanlhamakho aktemakha' apkelvetai'a enenlhet lhennenga mamma apkelletsekama mamma qaselha panko'ok"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "vanlhao semheng a mota amaniek lhengvaapkelvetai'a engeliapmak lhennenga semhe vanlha semheng apketlhelhma'a kev",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 290000,
-      "dependents": {
-        "ASR": {
-          "value": "vanlhao semheng a mota amaniek lhengvaapkelvetai'a engeliapmak lhennenga semhe vanlha semheng apketlhelhma'a kev"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "takhe mota akvesai'a lhema qaselha nevhak ma'a ngkoihokha hengamaika'a nak se'",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 300000,
-      "dependents": {
-        "ASR": {
-          "value": "takhe mota akvesai'a lhema qaselha nevhak ma'a ngkoihokha hengamaika'a nak se'"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "nakelha nlhemnak mokkameniorolmek ha' centro nkeklhave ka hemanlholhtam'a temma nhan ma",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 310000,
-      "dependents": {
-        "ASR": {
-          "value": "nakelha nlhemnak mokkameniorolmek ha' centro nkeklhave ka hemanlholhtam'a temma nhan ma"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "ia noka skaiakmok ma'a nietnek nanaklheia ngkeltaiak na ngvoihok ma'a temakha lhnn lhema temma ietoma konne",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 320000,
-      "dependents": {
-        "ASR": {
-          "value": "ia noka skaiakmok ma'a nietnek nanaklheia ngkeltaiak na ngvoihok ma'a temakha lhnn lhema temma ietoma konne"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "nekev lhek mision mision alhta kvesai'ao nietnek ma'a escuela panko'ok nematkak nematkak escuela kelentalhnek ma'a nematka lempai'o k",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 330000,
-      "dependents": {
-        "ASR": {
-          "value": "nekev lhek mision mision alhta kvesai'ao nietnek ma'a escuela panko'ok nematkak nematkak escuela kelentalhnek ma'a nematka lempai'o k"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "lelhiaiamo nematkak o lhennenga kelelhiakme mota nematkak ieta escuela yd centro nak alhta ntemak kelelhiakmek nahan",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 340000,
-      "dependents": {
-        "ASR": {
-          "value": "lelhiaiamo nematkak o lhennenga kelelhiakme mota nematkak ieta escuela yd centro nak alhta ntemak kelelhiakmek nahan"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "netamen gvangka apkakhaikamok kelanelhelhema escuela colonia uno potanhan hen coloniados colonia tekel",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 350000,
-      "dependents": {
-        "ASR": {
-          "value": "netamen gvangka apkakhaikamok kelanelhelhema escuela colonia uno potanhan hen coloniados colonia tekel"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "anelhkek kelentalhnek nan escuela temak ko svetai'a temakha eietkok asemepasa  ano alia",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 360000,
-      "dependents": {
-        "ASR": {
-          "value": "anelhkek kelentalhnek nan escuela temak ko svetai'a temakha eietkok asemepasa  ano alia"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "nelvet'a n hengko'o ngkeltamengko ihokha hengamaika engankok kelma'a ngkoniakhak aniama mokhek ankek aniem ei'akha kelhaonietnetlhek",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 370000,
-      "dependents": {
-        "ASR": {
-          "value": "nelvet'a n hengko'o ngkeltamengko ihokha hengamaika engankok kelma'a ngkoniakhak aniama mokhek ankek aniem ei'akha kelhaonietnetlhek"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "neltennaikama manolo ntase' vanlha",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 380000,
-      "dependents": {
-        "ASR": {
-          "value": "neltennaikama manolo ntase' vanlha"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "kolaktemakha kolhveva nak vanlha nietnek na pkenmakmekama nietne' vanlha pkenmakmengo vanl",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 390000,
-      "dependents": {
-        "ASR": {
-          "value": "kolaktemakha kolhveva nak vanlha nietnek na pkenmakmekama nietne' vanlha pkenmakmengo vanl"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "hta lhennenga mamma patakkom mamma'mama patak kom lhennenga mamma sverto mamma sero nke",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 400000,
-      "dependents": {
-        "ASR": {
-          "value": "hta lhennenga mamma patakkom mamma'mama patak kom lhennenga mamma sverto mamma sero nke"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "enenlhet lhennenga mamma lhennenga nenga lhennenga mamma'notiene svelto naok pala estancia asinoma",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 410000,
-      "dependents": {
-        "ASR": {
-          "value": "enenlhet lhennenga mamma lhennenga nenga lhennenga mamma'notiene svelto naok pala estancia asinoma"
-        }
-      }
-    },
-    {
-      "num_slots": 1,
-      "text": "urovestapoepoketito ko campra asi pasase agola dia si' netavienasai vanlha",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
-      "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 420000,
-      "dependents": {
-        "ASR": {
-          "value": "urovestapoepoketito ko campra asi pasase agola dia si' netavienasai vanlha"
+          "value": "nelvakteklhe"
         }
       }
     },
     {
       "num_slots": 1,
       "text": "",
-      "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
       "title": "JE_07092025_Hapong_Aniep",
-      "start_time_ms": 430000,
+      "start_time_ms": 3538,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "khapomg anie",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 4185,
+      "dependents": {
+        "ASR": {
+          "value": "khapomg anie"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 5700,
+      "dependents": {
+        "ASR": {
+          "value": "o"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "aknem ana",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 6130,
+      "dependents": {
+        "ASR": {
+          "value": "aknem ana"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 7621,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "va",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 8364,
+      "dependents": {
+        "ASR": {
+          "value": "va"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tek nan aniem'o mokhe'",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 8646,
+      "dependents": {
+        "ASR": {
+          "value": "tek nan aniem'o mokhe'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha enkek",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 10321,
+      "dependents": {
+        "ASR": {
+          "value": "vanlha enkek"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ntettasemanhan",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 11168,
+      "dependents": {
+        "ASR": {
+          "value": "ntettasemanhan"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "aptemakha lhennenga temma",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 12729,
+      "dependents": {
+        "ASR": {
+          "value": "aptemakha lhennenga temma"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ieto",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 14279,
+      "dependents": {
+        "ASR": {
+          "value": "ieto"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "hapvanie",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 14857,
+      "dependents": {
+        "ASR": {
+          "value": "hapvanie"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kanhan ma'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 16249,
+      "dependents": {
+        "ASR": {
+          "value": "kanhan ma'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tomakh apvete",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 17216,
+      "dependents": {
+        "ASR": {
+          "value": "tomakh apvete"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ianqalho namo",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 18680,
+      "dependents": {
+        "ASR": {
+          "value": "ianqalho namo"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o'o kakhaiangkelha enenlhe",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 20429,
+      "dependents": {
+        "ASR": {
+          "value": "o'o kakhaiangkelha enenlhe"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kakhaiangkek nak enenlhet ma lh 0lheman",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 22700,
+      "dependents": {
+        "ASR": {
+          "value": "kakhaiangkek nak enenlhet ma lh 0lheman"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 25356,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "apvanie",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 26632,
+      "dependents": {
+        "ASR": {
+          "value": "apvanie"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kakhangkek malha cuare kelha",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 27450,
+      "dependents": {
+        "ASR": {
+          "value": "kakhangkek malha cuare kelha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "uan",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 30197,
+      "dependents": {
+        "ASR": {
+          "value": "uan"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "colonia tres akvesai'aha ntomakha apvetek nietnek ma'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 30618,
+      "dependents": {
+        "ASR": {
+          "value": "colonia tres akvesai'aha ntomakha apvetek nietnek ma'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "malha 90 enenlhet kakhaikamo",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 34107,
+      "dependents": {
+        "ASR": {
+          "value": "malha 90 enenlhet kakhaikamo"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kelvetsaka atoba",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 36147,
+      "dependents": {
+        "ASR": {
+          "value": "kelvetsaka atoba"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "avanhek alhta apkelvetai'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 38234,
+      "dependents": {
+        "ASR": {
+          "value": "avanhek alhta apkelvetai'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "onietnek aniep apanko'ok",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 40006,
+      "dependents": {
+        "ASR": {
+          "value": "onietnek aniep apanko'ok"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nietnek apkelha aikamo",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 42239,
+      "dependents": {
+        "ASR": {
+          "value": "nietnek apkelha aikamo"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nietnek nan kaleto",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 43677,
+      "dependents": {
+        "ASR": {
+          "value": "nietnek nan kaleto"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "apanko'ok lhennenga",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 45574,
+      "dependents": {
+        "ASR": {
+          "value": "apanko'ok lhennenga"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ka ne",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 47350,
+      "dependents": {
+        "ASR": {
+          "value": "ka ne"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "keltngkonnak hengke'e",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 47985,
+      "dependents": {
+        "ASR": {
+          "value": "keltngkonnak hengke'e"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "hema enialhakvo'o nak he",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 50074,
+      "dependents": {
+        "ASR": {
+          "value": "hema enialhakvo'o nak he"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nelvaktengke'e ieto hapvonganie",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 52040,
+      "dependents": {
+        "ASR": {
+          "value": "nelvaktengke'e ieto hapvonganie"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "iel'aisekhe",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 54304,
+      "dependents": {
+        "ASR": {
+          "value": "iel'aisekhe"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tema",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 55024,
+      "dependents": {
+        "ASR": {
+          "value": "tema"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "pon",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 55892,
+      "dependents": {
+        "ASR": {
+          "value": "pon"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "hapong aniek",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 56352,
+      "dependents": {
+        "ASR": {
+          "value": "hapong aniek"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "apkelva",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 57651,
+      "dependents": {
+        "ASR": {
+          "value": "apkelva"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ek nan",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 58160,
+      "dependents": {
+        "ASR": {
+          "value": "ek nan"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 59186,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "hema akvesa nhan nakham nialpa",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 59596,
+      "dependents": {
+        "ASR": {
+          "value": "hema akvesa nhan nakham nialpa"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nepvatemma na",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 62015,
+      "dependents": {
+        "ASR": {
+          "value": "nepvatemma na"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kanena",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 62887,
+      "dependents": {
+        "ASR": {
+          "value": "kanena"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "te nak nakha nialpanieo",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 63303,
+      "dependents": {
+        "ASR": {
+          "value": "te nak nakha nialpanieo"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nema lokal ma'a nietne",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 65336,
+      "dependents": {
+        "ASR": {
+          "value": "nema lokal ma'a nietne"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nienve niavek na he",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 67405,
+      "dependents": {
+        "ASR": {
+          "value": "nienve niavek na he"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "amaika enganko",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 69366,
+      "dependents": {
+        "ASR": {
+          "value": "amaika enganko"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 70885,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "keltangkoiok ma'a ennengko'o",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 71350,
+      "dependents": {
+        "ASR": {
+          "value": "keltangkoiok ma'a ennengko'o"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vakve ngkonne nenekev",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 73276,
+      "dependents": {
+        "ASR": {
+          "value": "vakve ngkonne nenekev"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "amaika na",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 75228,
+      "dependents": {
+        "ASR": {
+          "value": "amaika na"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kelqasek nahan ntalhesalhkek akvesai'a konne",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 76623,
+      "dependents": {
+        "ASR": {
+          "value": "kelqasek nahan ntalhesalhkek akvesai'a konne"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "apkellavakha ko nennekev' apkelvesai'atovo",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 80715,
+      "dependents": {
+        "ASR": {
+          "value": "apkellavakha ko nennekev' apkelvesai'atovo"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ietneklhe",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 83889,
+      "dependents": {
+        "ASR": {
+          "value": "ietneklhe"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "akvetai'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 84682,
+      "dependents": {
+        "ASR": {
+          "value": "akvetai'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nietnek naakvetai'a lhennenga enenlhe",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 85645,
+      "dependents": {
+        "ASR": {
+          "value": "nietnek naakvetai'a lhennenga enenlhe"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tem",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 87716,
+      "dependents": {
+        "ASR": {
+          "value": "tem"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "a kolhave na",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 88886,
+      "dependents": {
+        "ASR": {
+          "value": "a kolhave na"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 89976,
+      "dependents": {
+        "ASR": {
+          "value": "o"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "keltaiekhe ngkota vanlha koka",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 90585,
+      "dependents": {
+        "ASR": {
+          "value": "keltaiekhe ngkota vanlha koka"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma temma",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 92859,
+      "dependents": {
+        "ASR": {
+          "value": "mamma temma"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma tem nak kolhva",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 94031,
+      "dependents": {
+        "ASR": {
+          "value": "mamma tem nak kolhva"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nietne",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 95510,
+      "dependents": {
+        "ASR": {
+          "value": "nietne"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 96494,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "akvetai'a alhnanko",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 96780,
+      "dependents": {
+        "ASR": {
+          "value": "akvetai'a alhnanko"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "engialheng akvai'a na",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 98422,
+      "dependents": {
+        "ASR": {
+          "value": "engialheng akvai'a na"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "enha",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 102405,
+      "dependents": {
+        "ASR": {
+          "value": "enha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 103098,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "malengai",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 103761,
+      "dependents": {
+        "ASR": {
+          "value": "malengai"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "han",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 104848,
+      "dependents": {
+        "ASR": {
+          "value": "han"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "lhema iokha lhema koka iokha lhm'o apienaiaengkelha lhnak iemmen akvesai'a malenga nie",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 106008,
+      "dependents": {
+        "ASR": {
+          "value": "lhema iokha lhema koka iokha lhm'o apienaiaengkelha lhnak iemmen akvesai'a malenga nie"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 110800,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "akvesai'a apienaiangkelha iemmen",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 111544,
+      "dependents": {
+        "ASR": {
+          "value": "akvesai'a apienaiangkelha iemmen"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "enenlhet apiamakha iemen malenga ie",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 113833,
+      "dependents": {
+        "ASR": {
+          "value": "enenlhet apiamakha iemen malenga ie"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 115888,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 117068,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nietnek mangvet'ak nan",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 118111,
+      "dependents": {
+        "ASR": {
+          "value": "nietnek mangvet'ak nan"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "apienaen kelha iemmen keliakmong kelha nhan",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 120380,
+      "dependents": {
+        "ASR": {
+          "value": "apienaen kelha iemmen keliakmong kelha nhan"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ngvetak nan",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 123670,
+      "dependents": {
+        "ASR": {
+          "value": "ngvetak nan"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kane'",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 125340,
+      "dependents": {
+        "ASR": {
+          "value": "kane'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nelvaa",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 125752,
+      "dependents": {
+        "ASR": {
+          "value": "nelvaa"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tamo nak ko skeltennama",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 126216,
+      "dependents": {
+        "ASR": {
+          "value": "tamo nak ko skeltennama"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ava",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 127709,
+      "dependents": {
+        "ASR": {
+          "value": "ava"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "temakha nelloma",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 128210,
+      "dependents": {
+        "ASR": {
+          "value": "temakha nelloma"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 129342,
+      "dependents": {
+        "ASR": {
+          "value": "a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ko nenekev' apkelvesai'a pkelvesa nhan toba",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 130453,
+      "dependents": {
+        "ASR": {
+          "value": "ko nenekev' apkelvesai'a pkelvesa nhan toba"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 133808,
+      "dependents": {
+        "ASR": {
+          "value": "a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 134336,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "henkek akve",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 134741,
+      "dependents": {
+        "ASR": {
+          "value": "henkek akve"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nlhenkek akvesai'a akvetai'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 135583,
+      "dependents": {
+        "ASR": {
+          "value": "nlhenkek akvesai'a akvetai'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "anie'",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 137693,
+      "dependents": {
+        "ASR": {
+          "value": "anie'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nah aknetlhengkek",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 139164,
+      "dependents": {
+        "ASR": {
+          "value": "nah aknetlhengkek"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tek anie",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 140309,
+      "dependents": {
+        "ASR": {
+          "value": "tek anie"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "asammalhkelhna mota",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 141679,
+      "dependents": {
+        "ASR": {
+          "value": "asammalhkelhna mota"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ieto na",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 144049,
+      "dependents": {
+        "ASR": {
+          "value": "ieto na"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o lhema estancia nak ma'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 145341,
+      "dependents": {
+        "ASR": {
+          "value": "o lhema estancia nak ma'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "lhennenga tep ankek mision an",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 146737,
+      "dependents": {
+        "ASR": {
+          "value": "lhennenga tep ankek mision an"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nlhenkek netlhe alhenkeklhek ko'o",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 148910,
+      "dependents": {
+        "ASR": {
+          "value": "nlhenkek netlhe alhenkeklhek ko'o"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "alhammohkelham'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 151075,
+      "dependents": {
+        "ASR": {
+          "value": "alhammohkelham'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "akvesai'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 152612,
+      "dependents": {
+        "ASR": {
+          "value": "akvesai'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vesai'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 153478,
+      "dependents": {
+        "ASR": {
+          "value": "vesai'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "alhama",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 155187,
+      "dependents": {
+        "ASR": {
+          "value": "alhama"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "aa",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 155759,
+      "dependents": {
+        "ASR": {
+          "value": "aa"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 156072,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kanietepepa",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 156647,
+      "dependents": {
+        "ASR": {
+          "value": "kanietepepa"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o kalek",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 158470,
+      "dependents": {
+        "ASR": {
+          "value": "o kalek"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "te",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 159946,
+      "dependents": {
+        "ASR": {
+          "value": "te"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tamakho aktema",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 161350,
+      "dependents": {
+        "ASR": {
+          "value": "tamakho aktema"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 162093,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "alhammalhkelham",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 162579,
+      "dependents": {
+        "ASR": {
+          "value": "alhammalhkelham"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ka aniem'o",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 164149,
+      "dependents": {
+        "ASR": {
+          "value": "ka aniem'o"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "hapvanie",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 165020,
+      "dependents": {
+        "ASR": {
+          "value": "hapvanie"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tomakha apvete",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 166301,
+      "dependents": {
+        "ASR": {
+          "value": "tomakha apvete"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "potanhan nakhamialpa",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 168232,
+      "dependents": {
+        "ASR": {
+          "value": "potanhan nakhamialpa"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o iangkalho nam",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 170095,
+      "dependents": {
+        "ASR": {
+          "value": "o iangkalho nam"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kana",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 171675,
+      "dependents": {
+        "ASR": {
+          "value": "kana"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nnnetlhena nnengkoma",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 172210,
+      "dependents": {
+        "ASR": {
+          "value": "nnnetlhena nnengkoma"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kolhave nma'a ngkoihokheng akv'o na",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 174010,
+      "dependents": {
+        "ASR": {
+          "value": "kolhave nma'a ngkoihokheng akv'o na"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha ke",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 178385,
+      "dependents": {
+        "ASR": {
+          "value": "vanlha ke"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "anma'",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 180488,
+      "dependents": {
+        "ASR": {
+          "value": "anma'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "akvesaia",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 181483,
+      "dependents": {
+        "ASR": {
+          "value": "akvesaia"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 182338,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "'",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 182869,
+      "dependents": {
+        "ASR": {
+          "value": "'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ola akvesai' lhen",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 183847,
+      "dependents": {
+        "ASR": {
+          "value": "ola akvesai' lhen"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 185196,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "apoaniek",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 185541,
+      "dependents": {
+        "ASR": {
+          "value": "apoaniek"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "aphonganie",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 186222,
+      "dependents": {
+        "ASR": {
+          "value": "aphonganie"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 187821,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "iankalho nam",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 190411,
+      "dependents": {
+        "ASR": {
+          "value": "iankalho nam"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kakvesaia mokhe",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 191369,
+      "dependents": {
+        "ASR": {
+          "value": "kakvesaia mokhe"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ana",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 192969,
+      "dependents": {
+        "ASR": {
+          "value": "ana"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mo'ong akolaia",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 193437,
+      "dependents": {
+        "ASR": {
+          "value": "mo'ong akolaia"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "malenga iete",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 195581,
+      "dependents": {
+        "ASR": {
+          "value": "malenga iete"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ai'ountaqhama",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 196934,
+      "dependents": {
+        "ASR": {
+          "value": "ai'ountaqhama"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mara av",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 198386,
+      "dependents": {
+        "ASR": {
+          "value": "mara av"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 200892,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 203379,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 209322,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 210112,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "henmakmekama kelha",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 211227,
+      "dependents": {
+        "ASR": {
+          "value": "henmakmekama kelha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o nietne'",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 212389,
+      "dependents": {
+        "ASR": {
+          "value": "o nietne'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 214191,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 214393,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha aklheno nietnek",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 214678,
+      "dependents": {
+        "ASR": {
+          "value": "vanlha aklheno nietnek"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nemmakkenmakmekama engeliapmak",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 217427,
+      "dependents": {
+        "ASR": {
+          "value": "nemmakkenmakmekama engeliapmak"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o kelloka",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 220409,
+      "dependents": {
+        "ASR": {
+          "value": "o kelloka"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o kellomakhakonne nak nenekev'",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 221610,
+      "dependents": {
+        "ASR": {
+          "value": "o kellomakhakonne nak nenekev'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "enmakmekamalhta mo",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 224547,
+      "dependents": {
+        "ASR": {
+          "value": "enmakmekamalhta mo"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "lhema ko nenganeke'",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 226349,
+      "dependents": {
+        "ASR": {
+          "value": "lhema ko nenganeke'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ma'ak nan ngkoiho",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 228040,
+      "dependents": {
+        "ASR": {
+          "value": "ma'ak nan ngkoiho"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "alhenkek nan ko",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 229222,
+      "dependents": {
+        "ASR": {
+          "value": "alhenkek nan ko"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o na",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 230917,
+      "dependents": {
+        "ASR": {
+          "value": "o na"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "eeliepmalhta nietne apkenmakmekama konnem enekhev",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 231252,
+      "dependents": {
+        "ASR": {
+          "value": "eeliepmalhta nietne apkenmakmekama konnem enekhev"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ieto lhema lhta",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 234934,
+      "dependents": {
+        "ASR": {
+          "value": "ieto lhema lhta"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 235843,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ka ntemak ko afvetai'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 236514,
+      "dependents": {
+        "ASR": {
+          "value": "ka ntemak ko afvetai'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mangkoiok heng",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 238305,
+      "dependents": {
+        "ASR": {
+          "value": "mangkoiok heng"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "amaika'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 239616,
+      "dependents": {
+        "ASR": {
+          "value": "amaika'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ietnek na pkenmakmekama anie",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 241116,
+      "dependents": {
+        "ASR": {
+          "value": "ietnek na pkenmakmekama anie"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "aniep ana",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 243783,
+      "dependents": {
+        "ASR": {
+          "value": "aniep ana"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kenmakmekama",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 244642,
+      "dependents": {
+        "ASR": {
+          "value": "kenmakmekama"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o hapvanie",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 246018,
+      "dependents": {
+        "ASR": {
+          "value": "o hapvanie"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tomakha apvete",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 247690,
+      "dependents": {
+        "ASR": {
+          "value": "tomakha apvete"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "iangkalhanamo",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 249325,
+      "dependents": {
+        "ASR": {
+          "value": "iangkalhanamo"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kenmakmemanhan kvesaia anie",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 250219,
+      "dependents": {
+        "ASR": {
+          "value": "kenmakmemanhan kvesaia anie"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "iemaikama o",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 252050,
+      "dependents": {
+        "ASR": {
+          "value": "iemaikama o"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "peia",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 252746,
+      "dependents": {
+        "ASR": {
+          "value": "peia"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "e",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 253908,
+      "dependents": {
+        "ASR": {
+          "value": "e"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "to",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 254200,
+      "dependents": {
+        "ASR": {
+          "value": "to"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "hamakho",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 254653,
+      "dependents": {
+        "ASR": {
+          "value": "hamakho"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "temakha",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 255122,
+      "dependents": {
+        "ASR": {
+          "value": "temakha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 256095,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tena alammalhka lhennenga",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 256313,
+      "dependents": {
+        "ASR": {
+          "value": "tena alammalhka lhennenga"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha apkenmakmek kama enenlhet ma",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 258141,
+      "dependents": {
+        "ASR": {
+          "value": "vanlha apkenmakmek kama enenlhet ma"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kestak'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 260799,
+      "dependents": {
+        "ASR": {
+          "value": "kestak'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "takko askanongke",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 261398,
+      "dependents": {
+        "ASR": {
+          "value": "takko askanongke"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 263941,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 265232,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 265757,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "anietnek nan",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 266188,
+      "dependents": {
+        "ASR": {
+          "value": "anietnek nan"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mak na ngkoiho",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 267626,
+      "dependents": {
+        "ASR": {
+          "value": "mak na ngkoiho"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kelpaqvamekamo",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 268963,
+      "dependents": {
+        "ASR": {
+          "value": "kelpaqvamekamo"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nietnek nahan",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 270394,
+      "dependents": {
+        "ASR": {
+          "value": "nietnek nahan"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kelvetai'a apoma",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 271821,
+      "dependents": {
+        "ASR": {
+          "value": "kelvetai'a apoma"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "hoka lahan",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 273579,
+      "dependents": {
+        "ASR": {
+          "value": "hoka lahan"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "elha pe",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 274853,
+      "dependents": {
+        "ASR": {
+          "value": "elha pe"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "pelhapen",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 275418,
+      "dependents": {
+        "ASR": {
+          "value": "pelhapen"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "keltak nan ngkoih",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 276646,
+      "dependents": {
+        "ASR": {
+          "value": "keltak nan ngkoih"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "temakha",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 278260,
+      "dependents": {
+        "ASR": {
+          "value": "temakha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nialva",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 279133,
+      "dependents": {
+        "ASR": {
+          "value": "nialva"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "napna",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 280527,
+      "dependents": {
+        "ASR": {
+          "value": "napna"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 281115,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "va",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 282467,
+      "dependents": {
+        "ASR": {
+          "value": "va"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tamakho aktemakha",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 282821,
+      "dependents": {
+        "ASR": {
+          "value": "tamakho aktemakha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "apkelvetai'a enenlhet",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 283937,
+      "dependents": {
+        "ASR": {
+          "value": "apkelvetai'a enenlhet"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "en",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 285342,
+      "dependents": {
+        "ASR": {
+          "value": "en"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma apkelletsekama",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 286087,
+      "dependents": {
+        "ASR": {
+          "value": "mamma apkelletsekama"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma qaselha panko",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 288242,
+      "dependents": {
+        "ASR": {
+          "value": "mamma qaselha panko"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 290156,
+      "dependents": {
+        "ASR": {
+          "value": "vanlha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o semheng amota amaniek lhengvak",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 291463,
+      "dependents": {
+        "ASR": {
+          "value": "o semheng amota amaniek lhengvak"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "apkelvetai'a angeliapmaq lhenneng",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 294062,
+      "dependents": {
+        "ASR": {
+          "value": "apkelvetai'a angeliapmaq lhenneng"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "seme vanlha seme",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 297406,
+      "dependents": {
+        "ASR": {
+          "value": "seme vanlha seme"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "apketlhesma akelvetakhe mota",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 298971,
+      "dependents": {
+        "ASR": {
+          "value": "apketlhesma akelvetakhe mota"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "akvesai'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 301231,
+      "dependents": {
+        "ASR": {
+          "value": "akvesai'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nong",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 302364,
+      "dependents": {
+        "ASR": {
+          "value": "nong"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ema qaselha nevha",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 302892,
+      "dependents": {
+        "ASR": {
+          "value": "ema qaselha nevha"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ma'a ngkoiokaheng amaika'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 304546,
+      "dependents": {
+        "ASR": {
+          "value": "ma'a ngkoiokaheng amaika'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 307880,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 308376,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 308818,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ma",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 309283,
+      "dependents": {
+        "ASR": {
+          "value": "ma"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "elha ntem",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 313262,
+      "dependents": {
+        "ASR": {
+          "value": "elha ntem"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "netamen ennieo",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 314323,
+      "dependents": {
+        "ASR": {
+          "value": "netamen ennieo"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 315479,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 316257,
+      "dependents": {
+        "ASR": {
+          "value": "a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "sentro nke",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 316787,
+      "dependents": {
+        "ASR": {
+          "value": "sentro nke"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 317344,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kaa temmanlho",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 317871,
+      "dependents": {
+        "ASR": {
+          "value": "kaa temmanlho"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "temma nhan ma",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 319134,
+      "dependents": {
+        "ASR": {
+          "value": "temma nhan ma"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 320087,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 320454,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ia nokama skaiakmok ma'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 321959,
+      "dependents": {
+        "ASR": {
+          "value": "ia nokama skaiakmok ma'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 323873,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ietnek nan aklheia ngkeltak nan ngvoihok ma'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 324516,
+      "dependents": {
+        "ASR": {
+          "value": "ietnek nan aklheia ngkeltak nan ngvoihok ma'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "temakha lh nlhema temma ietom'a konnenenekev' nlhe",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 327529,
+      "dependents": {
+        "ASR": {
+          "value": "temakha lh nlhema temma ietom'a konnenenekev' nlhe"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mision",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 330756,
+      "dependents": {
+        "ASR": {
+          "value": "mision"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mision alhta kvesai'a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 331854,
+      "dependents": {
+        "ASR": {
+          "value": "mision alhta kvesai'a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o nietnek ma'a escuela panko'ok nematka",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 333770,
+      "dependents": {
+        "ASR": {
+          "value": "o nietnek ma'a escuela panko'ok nematka"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mematkak escuela kelentalhnek ma'a nematka",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 336786,
+      "dependents": {
+        "ASR": {
+          "value": "mematkak escuela kelentalhnek ma'a nematka"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kelempai'o kelelhaiam",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 339192,
+      "dependents": {
+        "ASR": {
+          "value": "kelempai'o kelelhaiam"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o nema",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 341060,
+      "dependents": {
+        "ASR": {
+          "value": "o nema"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 341685,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o lhennenga",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 342769,
+      "dependents": {
+        "ASR": {
+          "value": "o lhennenga"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kelelhiakme mota",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 343844,
+      "dependents": {
+        "ASR": {
+          "value": "kelelhiakme mota"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nematka",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 345344,
+      "dependents": {
+        "ASR": {
+          "value": "nematka"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nieta'e",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 346065,
+      "dependents": {
+        "ASR": {
+          "value": "nieta'e"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "velaietcentro na",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 346555,
+      "dependents": {
+        "ASR": {
+          "value": "velaietcentro na"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "a",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 348258,
+      "dependents": {
+        "ASR": {
+          "value": "a"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ta ntema",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 348459,
+      "dependents": {
+        "ASR": {
+          "value": "ta ntema"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kelelhiakmek nan",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 349038,
+      "dependents": {
+        "ASR": {
+          "value": "kelelhiakmek nan"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "netamen gvangka apkakhaikamo",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 350576,
+      "dependents": {
+        "ASR": {
+          "value": "netamen gvangka apkakhaikamo"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kelanelhe lhema escuela",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 353020,
+      "dependents": {
+        "ASR": {
+          "value": "kelanelhe lhema escuela"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "lonia uno",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 355358,
+      "dependents": {
+        "ASR": {
+          "value": "lonia uno"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "potanhan he colonia",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 356672,
+      "dependents": {
+        "ASR": {
+          "value": "potanhan he colonia"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 358030,
+      "dependents": {
+        "ASR": {
+          "value": "o"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mania'",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 359137,
+      "dependents": {
+        "ASR": {
+          "value": "mania'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kelane",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 359618,
+      "dependents": {
+        "ASR": {
+          "value": "kelane"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 360313,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "kelentalhnek nan'",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 360799,
+      "dependents": {
+        "ASR": {
+          "value": "kelentalhnek nan'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ven",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 361888,
+      "dependents": {
+        "ASR": {
+          "value": "ven"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tema",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 362871,
+      "dependents": {
+        "ASR": {
+          "value": "tema"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o svetai'a temakha eie",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 363229,
+      "dependents": {
+        "ASR": {
+          "value": "o svetai'a temakha eie"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 364527,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "asemepa",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 365398,
+      "dependents": {
+        "ASR": {
+          "value": "asemepa"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ano haci",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 367361,
+      "dependents": {
+        "ASR": {
+          "value": "ano haci"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nelvet annengko ngkeltanengko ihokha heng amaika enganko",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 370051,
+      "dependents": {
+        "ASR": {
+          "value": "nelvet annengko ngkeltanengko ihokha heng amaika enganko"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "eltema ngkoniakhak aniamo",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 373511,
+      "dependents": {
+        "ASR": {
+          "value": "eltema ngkoniakhak aniamo"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "hek ankek aniemei'aqhak",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 375269,
+      "dependents": {
+        "ASR": {
+          "value": "hek ankek aniemei'aqhak"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "og",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 377448,
+      "dependents": {
+        "ASR": {
+          "value": "og"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ietneklhe",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 377863,
+      "dependents": {
+        "ASR": {
+          "value": "ietneklhe"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 378563,
+      "dependents": {
+        "ASR": {
+          "value": "o"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "neltennaikam",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 379956,
+      "dependents": {
+        "ASR": {
+          "value": "neltennaikam"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "manol",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 381810,
+      "dependents": {
+        "ASR": {
+          "value": "manol"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "tase",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 382480,
+      "dependents": {
+        "ASR": {
+          "value": "tase"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "an",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 383074,
+      "dependents": {
+        "ASR": {
+          "value": "an"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 384305,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 391760,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "o",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 392237,
+      "dependents": {
+        "ASR": {
+          "value": "o"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha nietnek na apkemmakmekam",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 393951,
+      "dependents": {
+        "ASR": {
+          "value": "vanlha nietnek na apkemmakmekam"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 395862,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ietn",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 396837,
+      "dependents": {
+        "ASR": {
+          "value": "ietn"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 397576,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "vanlha alhemmenga",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 399752,
+      "dependents": {
+        "ASR": {
+          "value": "vanlha alhemmenga"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma pata",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 400736,
+      "dependents": {
+        "ASR": {
+          "value": "mamma pata"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mam",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 402490,
+      "dependents": {
+        "ASR": {
+          "value": "mam"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mammo patakkom lhennenga",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 404581,
+      "dependents": {
+        "ASR": {
+          "value": "mammo patakkom lhennenga"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 406951,
+      "dependents": {
+        "ASR": {
+          "value": "mamma"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ve",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 407867,
+      "dependents": {
+        "ASR": {
+          "value": "ve"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "to mamm",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 408279,
+      "dependents": {
+        "ASR": {
+          "value": "to mamm"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ero nqe",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 409381,
+      "dependents": {
+        "ASR": {
+          "value": "ero nqe"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "enenlhet",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 410223,
+      "dependents": {
+        "ASR": {
+          "value": "enenlhet"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "e",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 410748,
+      "dependents": {
+        "ASR": {
+          "value": "e"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "mamma lhenn",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 411537,
+      "dependents": {
+        "ASR": {
+          "value": "mamma lhenn"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 412913,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "lhennen",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 413334,
+      "dependents": {
+        "ASR": {
+          "value": "lhennen"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "no",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 416488,
+      "dependents": {
+        "ASR": {
+          "value": "no"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "nos tiene",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 416828,
+      "dependents": {
+        "ASR": {
+          "value": "nos tiene"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "sveltona",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 417445,
+      "dependents": {
+        "ASR": {
+          "value": "sveltona"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "ara",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 418382,
+      "dependents": {
+        "ASR": {
+          "value": "ara"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 418753,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "asinoma",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 419292,
+      "dependents": {
+        "ASR": {
+          "value": "asinoma"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "orob",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 419983,
+      "dependents": {
+        "ASR": {
+          "value": "orob"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "apok",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 420415,
+      "dependents": {
+        "ASR": {
+          "value": "apok"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "oketito ko ampra",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 420992,
+      "dependents": {
+        "ASR": {
+          "value": "oketito ko ampra"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "eteng",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 422257,
+      "dependents": {
+        "ASR": {
+          "value": "eteng"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 423236,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "pasa",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 423515,
+      "dependents": {
+        "ASR": {
+          "value": "pasa"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "agona dia'",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 424706,
+      "dependents": {
+        "ASR": {
+          "value": "agona dia'"
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 426516,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 427519,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 429558,
+      "dependents": {
+        "ASR": {
+          "value": ""
+        }
+      }
+    },
+    {
+      "num_slots": 1,
+      "text": "",
+      "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+      "title": "JE_07092025_Hapong_Aniep",
+      "start_time_ms": 429763,
       "dependents": {
         "ASR": {
           "value": ""

@@ -1,0 +1,2767 @@
+{
+  "metadata": {
+    "timed": true,
+    "story ID": "a71a2fce-a1d8-46a2-809f-e3d3a64751b0",
+    "title": {
+      "_default": "JE_07092025_Hapong_Aniep"
+    },
+    "media": {
+      "audio_local": "",
+      "audio_remote": "",
+      "video": "",
+      "audio": "https://enenlhetaudio.nyc3.cdn.digitaloceanspaces.com/JE_07092025_Hapong_Aniep.wav"
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "10/6/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "JE_07092025_Hapong_Aniep.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "ASR": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "tier": "ASR"
+      }
+    }
+  },
+  "sentences": [
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 2400,
+      "end_time_ms": 3098,
+      "num_slots": 1,
+      "text": "nelvakteklhe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 3538,
+      "end_time_ms": 3970,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 4185,
+      "end_time_ms": 4709,
+      "num_slots": 1,
+      "text": "khapomg anie",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 5700,
+      "end_time_ms": 5986,
+      "num_slots": 1,
+      "text": "o",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 6130,
+      "end_time_ms": 6621,
+      "num_slots": 1,
+      "text": "aknem ana",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 7621,
+      "end_time_ms": 7884,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 8364,
+      "end_time_ms": 8520,
+      "num_slots": 1,
+      "text": "va",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 8646,
+      "end_time_ms": 9701,
+      "num_slots": 1,
+      "text": "tek nan aniem'o mokhe'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 10321,
+      "end_time_ms": 11045,
+      "num_slots": 1,
+      "text": "vanlha enkek",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 11168,
+      "end_time_ms": 12170,
+      "num_slots": 1,
+      "text": "ntettasemanhan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 12729,
+      "end_time_ms": 14036,
+      "num_slots": 1,
+      "text": "aptemakha lhennenga temma",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 14279,
+      "end_time_ms": 14663,
+      "num_slots": 1,
+      "text": "ieto",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 14857,
+      "end_time_ms": 15575,
+      "num_slots": 1,
+      "text": "hapvanie",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 16249,
+      "end_time_ms": 17019,
+      "num_slots": 1,
+      "text": "kanhan ma'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 17216,
+      "end_time_ms": 18075,
+      "num_slots": 1,
+      "text": "tomakh apvete",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 18680,
+      "end_time_ms": 19530,
+      "num_slots": 1,
+      "text": "ianqalho namo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 20429,
+      "end_time_ms": 21714,
+      "num_slots": 1,
+      "text": "o'o kakhaiangkelha enenlhe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 22700,
+      "end_time_ms": 25240,
+      "num_slots": 1,
+      "text": "kakhaiangkek nak enenlhet ma lh 0lheman",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 25356,
+      "end_time_ms": 25416,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 26632,
+      "end_time_ms": 27326,
+      "num_slots": 1,
+      "text": "apvanie",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 27450,
+      "end_time_ms": 29012,
+      "num_slots": 1,
+      "text": "kakhangkek malha cuare kelha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 30197,
+      "end_time_ms": 30366,
+      "num_slots": 1,
+      "text": "uan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 30618,
+      "end_time_ms": 33747,
+      "num_slots": 1,
+      "text": "colonia tres akvesai'aha ntomakha apvetek nietnek ma'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 34107,
+      "end_time_ms": 35952,
+      "num_slots": 1,
+      "text": "malha 90 enenlhet kakhaikamo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 36147,
+      "end_time_ms": 36984,
+      "num_slots": 1,
+      "text": "kelvetsaka atoba",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 38234,
+      "end_time_ms": 39706,
+      "num_slots": 1,
+      "text": "avanhek alhta apkelvetai'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 40006,
+      "end_time_ms": 41537,
+      "num_slots": 1,
+      "text": "onietnek aniep apanko'ok",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 42239,
+      "end_time_ms": 43504,
+      "num_slots": 1,
+      "text": "nietnek apkelha aikamo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 43677,
+      "end_time_ms": 44784,
+      "num_slots": 1,
+      "text": "nietnek nan kaleto",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 45574,
+      "end_time_ms": 46543,
+      "num_slots": 1,
+      "text": "apanko'ok lhennenga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 47350,
+      "end_time_ms": 47750,
+      "num_slots": 1,
+      "text": "ka ne",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 47985,
+      "end_time_ms": 49375,
+      "num_slots": 1,
+      "text": "keltngkonnak hengke'e",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 50074,
+      "end_time_ms": 51491,
+      "num_slots": 1,
+      "text": "hema enialhakvo'o nak he",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 52040,
+      "end_time_ms": 54036,
+      "num_slots": 1,
+      "text": "nelvaktengke'e ieto hapvonganie",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 54304,
+      "end_time_ms": 54900,
+      "num_slots": 1,
+      "text": "iel'aisekhe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 55024,
+      "end_time_ms": 55255,
+      "num_slots": 1,
+      "text": "tema",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 55892,
+      "end_time_ms": 56163,
+      "num_slots": 1,
+      "text": "pon",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 56352,
+      "end_time_ms": 57074,
+      "num_slots": 1,
+      "text": "hapong aniek",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 57651,
+      "end_time_ms": 58012,
+      "num_slots": 1,
+      "text": "apkelva",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 58160,
+      "end_time_ms": 58435,
+      "num_slots": 1,
+      "text": "ek nan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 59186,
+      "end_time_ms": 59279,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 59596,
+      "end_time_ms": 61317,
+      "num_slots": 1,
+      "text": "hema akvesa nhan nakham nialpa",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 62015,
+      "end_time_ms": 62731,
+      "num_slots": 1,
+      "text": "nepvatemma na",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 62887,
+      "end_time_ms": 63158,
+      "num_slots": 1,
+      "text": "kanena",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 63303,
+      "end_time_ms": 64475,
+      "num_slots": 1,
+      "text": "te nak nakha nialpanieo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 65336,
+      "end_time_ms": 66682,
+      "num_slots": 1,
+      "text": "nema lokal ma'a nietne",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 67405,
+      "end_time_ms": 68816,
+      "num_slots": 1,
+      "text": "nienve niavek na he",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 69366,
+      "end_time_ms": 70082,
+      "num_slots": 1,
+      "text": "amaika enganko",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 70885,
+      "end_time_ms": 70988,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 71350,
+      "end_time_ms": 72801,
+      "num_slots": 1,
+      "text": "keltangkoiok ma'a ennengko'o",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 73276,
+      "end_time_ms": 74428,
+      "num_slots": 1,
+      "text": "vakve ngkonne nenekev",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 75228,
+      "end_time_ms": 75936,
+      "num_slots": 1,
+      "text": "amaika na",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 76623,
+      "end_time_ms": 80175,
+      "num_slots": 1,
+      "text": "kelqasek nahan ntalhesalhkek akvesai'a konne",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 80715,
+      "end_time_ms": 83120,
+      "num_slots": 1,
+      "text": "apkellavakha ko nennekev' apkelvesai'atovo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 83889,
+      "end_time_ms": 84436,
+      "num_slots": 1,
+      "text": "ietneklhe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 84682,
+      "end_time_ms": 85396,
+      "num_slots": 1,
+      "text": "akvetai'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 85645,
+      "end_time_ms": 87564,
+      "num_slots": 1,
+      "text": "nietnek naakvetai'a lhennenga enenlhe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 87716,
+      "end_time_ms": 87966,
+      "num_slots": 1,
+      "text": "tem",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 88886,
+      "end_time_ms": 89584,
+      "num_slots": 1,
+      "text": "a kolhave na",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 89976,
+      "end_time_ms": 90355,
+      "num_slots": 1,
+      "text": "o",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 90585,
+      "end_time_ms": 92507,
+      "num_slots": 1,
+      "text": "keltaiekhe ngkota vanlha koka",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 92859,
+      "end_time_ms": 93549,
+      "num_slots": 1,
+      "text": "mamma temma",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 94031,
+      "end_time_ms": 94924,
+      "num_slots": 1,
+      "text": "mamma tem nak kolhva",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 95510,
+      "end_time_ms": 95968,
+      "num_slots": 1,
+      "text": "nietne",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 96494,
+      "end_time_ms": 96595,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 96780,
+      "end_time_ms": 97794,
+      "num_slots": 1,
+      "text": "akvetai'a alhnanko",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 98422,
+      "end_time_ms": 99374,
+      "num_slots": 1,
+      "text": "engialheng akvai'a na",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 102405,
+      "end_time_ms": 102694,
+      "num_slots": 1,
+      "text": "enha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 103098,
+      "end_time_ms": 103187,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 103761,
+      "end_time_ms": 104191,
+      "num_slots": 1,
+      "text": "malengai",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 104848,
+      "end_time_ms": 105300,
+      "num_slots": 1,
+      "text": "han",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 106008,
+      "end_time_ms": 110679,
+      "num_slots": 1,
+      "text": "lhema iokha lhema koka iokha lhm'o apienaiaengkelha lhnak iemmen akvesai'a malenga nie",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 110800,
+      "end_time_ms": 110866,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 111544,
+      "end_time_ms": 113030,
+      "num_slots": 1,
+      "text": "akvesai'a apienaiangkelha iemmen",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 113833,
+      "end_time_ms": 115752,
+      "num_slots": 1,
+      "text": "enenlhet apiamakha iemen malenga ie",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 115888,
+      "end_time_ms": 115949,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 117068,
+      "end_time_ms": 117290,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 118111,
+      "end_time_ms": 119356,
+      "num_slots": 1,
+      "text": "nietnek mangvet'ak nan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 120380,
+      "end_time_ms": 123090,
+      "num_slots": 1,
+      "text": "apienaen kelha iemmen keliakmong kelha nhan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 123670,
+      "end_time_ms": 124335,
+      "num_slots": 1,
+      "text": "ngvetak nan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 125340,
+      "end_time_ms": 125591,
+      "num_slots": 1,
+      "text": "kane'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 125752,
+      "end_time_ms": 126104,
+      "num_slots": 1,
+      "text": "nelvaa",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 126216,
+      "end_time_ms": 127501,
+      "num_slots": 1,
+      "text": "tamo nak ko skeltennama",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 127709,
+      "end_time_ms": 128082,
+      "num_slots": 1,
+      "text": "ava",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 128210,
+      "end_time_ms": 129217,
+      "num_slots": 1,
+      "text": "temakha nelloma",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 129342,
+      "end_time_ms": 129511,
+      "num_slots": 1,
+      "text": "a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 130453,
+      "end_time_ms": 132666,
+      "num_slots": 1,
+      "text": "ko nenekev' apkelvesai'a pkelvesa nhan toba",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 133808,
+      "end_time_ms": 134005,
+      "num_slots": 1,
+      "text": "a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 134336,
+      "end_time_ms": 134584,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 134741,
+      "end_time_ms": 135459,
+      "num_slots": 1,
+      "text": "henkek akve",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 135583,
+      "end_time_ms": 137481,
+      "num_slots": 1,
+      "text": "nlhenkek akvesai'a akvetai'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 137693,
+      "end_time_ms": 138154,
+      "num_slots": 1,
+      "text": "anie'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 139164,
+      "end_time_ms": 140116,
+      "num_slots": 1,
+      "text": "nah aknetlhengkek",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 140309,
+      "end_time_ms": 140838,
+      "num_slots": 1,
+      "text": "tek anie",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 141679,
+      "end_time_ms": 143435,
+      "num_slots": 1,
+      "text": "asammalhkelhna mota",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 144049,
+      "end_time_ms": 144471,
+      "num_slots": 1,
+      "text": "ieto na",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 145341,
+      "end_time_ms": 146624,
+      "num_slots": 1,
+      "text": "o lhema estancia nak ma'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 146737,
+      "end_time_ms": 148191,
+      "num_slots": 1,
+      "text": "lhennenga tep ankek mision an",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 148910,
+      "end_time_ms": 150812,
+      "num_slots": 1,
+      "text": "nlhenkek netlhe alhenkeklhek ko'o",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 151075,
+      "end_time_ms": 151912,
+      "num_slots": 1,
+      "text": "alhammohkelham'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 152612,
+      "end_time_ms": 153347,
+      "num_slots": 1,
+      "text": "akvesai'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 153478,
+      "end_time_ms": 154185,
+      "num_slots": 1,
+      "text": "vesai'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 155187,
+      "end_time_ms": 155618,
+      "num_slots": 1,
+      "text": "alhama",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 155759,
+      "end_time_ms": 155925,
+      "num_slots": 1,
+      "text": "aa",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 156072,
+      "end_time_ms": 156140,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 156647,
+      "end_time_ms": 157823,
+      "num_slots": 1,
+      "text": "kanietepepa",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 158470,
+      "end_time_ms": 159737,
+      "num_slots": 1,
+      "text": "o kalek",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 159946,
+      "end_time_ms": 160350,
+      "num_slots": 1,
+      "text": "te",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 161350,
+      "end_time_ms": 161978,
+      "num_slots": 1,
+      "text": "tamakho aktema",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 162093,
+      "end_time_ms": 162145,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 162579,
+      "end_time_ms": 163653,
+      "num_slots": 1,
+      "text": "alhammalhkelham",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 164149,
+      "end_time_ms": 164831,
+      "num_slots": 1,
+      "text": "ka aniem'o",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 165020,
+      "end_time_ms": 165696,
+      "num_slots": 1,
+      "text": "hapvanie",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 166301,
+      "end_time_ms": 167152,
+      "num_slots": 1,
+      "text": "tomakha apvete",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 168232,
+      "end_time_ms": 169415,
+      "num_slots": 1,
+      "text": "potanhan nakhamialpa",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 170095,
+      "end_time_ms": 170954,
+      "num_slots": 1,
+      "text": "o iangkalho nam",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 171675,
+      "end_time_ms": 171921,
+      "num_slots": 1,
+      "text": "kana",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 172210,
+      "end_time_ms": 173868,
+      "num_slots": 1,
+      "text": "nnnetlhena nnengkoma",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 174010,
+      "end_time_ms": 175725,
+      "num_slots": 1,
+      "text": "kolhave nma'a ngkoihokheng akv'o na",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 178385,
+      "end_time_ms": 178777,
+      "num_slots": 1,
+      "text": "vanlha ke",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 180488,
+      "end_time_ms": 181282,
+      "num_slots": 1,
+      "text": "anma'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 181483,
+      "end_time_ms": 182018,
+      "num_slots": 1,
+      "text": "akvesaia",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 182338,
+      "end_time_ms": 182387,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 182869,
+      "end_time_ms": 183253,
+      "num_slots": 1,
+      "text": "'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 183847,
+      "end_time_ms": 184421,
+      "num_slots": 1,
+      "text": "ola akvesai' lhen",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 185196,
+      "end_time_ms": 185381,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 185541,
+      "end_time_ms": 185962,
+      "num_slots": 1,
+      "text": "apoaniek",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 186222,
+      "end_time_ms": 186715,
+      "num_slots": 1,
+      "text": "aphonganie",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 187821,
+      "end_time_ms": 188497,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 190411,
+      "end_time_ms": 191230,
+      "num_slots": 1,
+      "text": "iankalho nam",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 191369,
+      "end_time_ms": 192031,
+      "num_slots": 1,
+      "text": "kakvesaia mokhe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 192969,
+      "end_time_ms": 193255,
+      "num_slots": 1,
+      "text": "ana",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 193437,
+      "end_time_ms": 194649,
+      "num_slots": 1,
+      "text": "mo'ong akolaia",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 195581,
+      "end_time_ms": 196294,
+      "num_slots": 1,
+      "text": "malenga iete",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 196934,
+      "end_time_ms": 197794,
+      "num_slots": 1,
+      "text": "ai'ountaqhama",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 198386,
+      "end_time_ms": 198942,
+      "num_slots": 1,
+      "text": "mara av",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 200892,
+      "end_time_ms": 200959,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 203379,
+      "end_time_ms": 203422,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 209322,
+      "end_time_ms": 209490,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 210112,
+      "end_time_ms": 210545,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 211227,
+      "end_time_ms": 212187,
+      "num_slots": 1,
+      "text": "henmakmekama kelha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 212389,
+      "end_time_ms": 213559,
+      "num_slots": 1,
+      "text": "o nietne'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 214191,
+      "end_time_ms": 214261,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 214393,
+      "end_time_ms": 214449,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 214678,
+      "end_time_ms": 217186,
+      "num_slots": 1,
+      "text": "vanlha aklheno nietnek",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 217427,
+      "end_time_ms": 219742,
+      "num_slots": 1,
+      "text": "nemmakkenmakmekama engeliapmak",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 220409,
+      "end_time_ms": 221432,
+      "num_slots": 1,
+      "text": "o kelloka",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 221610,
+      "end_time_ms": 224356,
+      "num_slots": 1,
+      "text": "o kellomakhakonne nak nenekev'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 224547,
+      "end_time_ms": 226167,
+      "num_slots": 1,
+      "text": "enmakmekamalhta mo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 226349,
+      "end_time_ms": 227350,
+      "num_slots": 1,
+      "text": "lhema ko nenganeke'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 228040,
+      "end_time_ms": 228759,
+      "num_slots": 1,
+      "text": "ma'ak nan ngkoiho",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 229222,
+      "end_time_ms": 230042,
+      "num_slots": 1,
+      "text": "alhenkek nan ko",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 230917,
+      "end_time_ms": 231136,
+      "num_slots": 1,
+      "text": "o na",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 231252,
+      "end_time_ms": 234450,
+      "num_slots": 1,
+      "text": "eeliepmalhta nietne apkenmakmekama konnem enekhev",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 234934,
+      "end_time_ms": 235732,
+      "num_slots": 1,
+      "text": "ieto lhema lhta",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 235843,
+      "end_time_ms": 235936,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 236514,
+      "end_time_ms": 237544,
+      "num_slots": 1,
+      "text": "ka ntemak ko afvetai'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 238305,
+      "end_time_ms": 239194,
+      "num_slots": 1,
+      "text": "mangkoiok heng",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 239616,
+      "end_time_ms": 240306,
+      "num_slots": 1,
+      "text": "amaika'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 241116,
+      "end_time_ms": 242764,
+      "num_slots": 1,
+      "text": "ietnek na pkenmakmekama anie",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 243783,
+      "end_time_ms": 244327,
+      "num_slots": 1,
+      "text": "aniep ana",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 244642,
+      "end_time_ms": 245320,
+      "num_slots": 1,
+      "text": "kenmakmekama",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 246018,
+      "end_time_ms": 247038,
+      "num_slots": 1,
+      "text": "o hapvanie",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 247690,
+      "end_time_ms": 248632,
+      "num_slots": 1,
+      "text": "tomakha apvete",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 249325,
+      "end_time_ms": 250079,
+      "num_slots": 1,
+      "text": "iangkalhanamo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 250219,
+      "end_time_ms": 251656,
+      "num_slots": 1,
+      "text": "kenmakmemanhan kvesaia anie",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 252050,
+      "end_time_ms": 252584,
+      "num_slots": 1,
+      "text": "iemaikama o",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 252746,
+      "end_time_ms": 253301,
+      "num_slots": 1,
+      "text": "peia",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 253908,
+      "end_time_ms": 254034,
+      "num_slots": 1,
+      "text": "e",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 254200,
+      "end_time_ms": 254518,
+      "num_slots": 1,
+      "text": "to",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 254653,
+      "end_time_ms": 254998,
+      "num_slots": 1,
+      "text": "hamakho",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 255122,
+      "end_time_ms": 255459,
+      "num_slots": 1,
+      "text": "temakha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 256095,
+      "end_time_ms": 256178,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 256313,
+      "end_time_ms": 257589,
+      "num_slots": 1,
+      "text": "tena alammalhka lhennenga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 258141,
+      "end_time_ms": 260036,
+      "num_slots": 1,
+      "text": "vanlha apkenmakmek kama enenlhet ma",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 260799,
+      "end_time_ms": 261274,
+      "num_slots": 1,
+      "text": "kestak'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 261398,
+      "end_time_ms": 262512,
+      "num_slots": 1,
+      "text": "takko askanongke",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 263941,
+      "end_time_ms": 264046,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 265232,
+      "end_time_ms": 265277,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 265757,
+      "end_time_ms": 265813,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 266188,
+      "end_time_ms": 267351,
+      "num_slots": 1,
+      "text": "anietnek nan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 267626,
+      "end_time_ms": 268392,
+      "num_slots": 1,
+      "text": "mak na ngkoiho",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 268963,
+      "end_time_ms": 270049,
+      "num_slots": 1,
+      "text": "kelpaqvamekamo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 270394,
+      "end_time_ms": 271176,
+      "num_slots": 1,
+      "text": "nietnek nahan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 271821,
+      "end_time_ms": 273192,
+      "num_slots": 1,
+      "text": "kelvetai'a apoma",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 273579,
+      "end_time_ms": 274236,
+      "num_slots": 1,
+      "text": "hoka lahan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 274853,
+      "end_time_ms": 275250,
+      "num_slots": 1,
+      "text": "elha pe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 275418,
+      "end_time_ms": 276450,
+      "num_slots": 1,
+      "text": "pelhapen",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 276646,
+      "end_time_ms": 277521,
+      "num_slots": 1,
+      "text": "keltak nan ngkoih",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 278260,
+      "end_time_ms": 278788,
+      "num_slots": 1,
+      "text": "temakha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 279133,
+      "end_time_ms": 280350,
+      "num_slots": 1,
+      "text": "nialva",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 280527,
+      "end_time_ms": 280918,
+      "num_slots": 1,
+      "text": "napna",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 281115,
+      "end_time_ms": 281530,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 282467,
+      "end_time_ms": 282657,
+      "num_slots": 1,
+      "text": "va",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 282821,
+      "end_time_ms": 283623,
+      "num_slots": 1,
+      "text": "tamakho aktemakha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 283937,
+      "end_time_ms": 285170,
+      "num_slots": 1,
+      "text": "apkelvetai'a enenlhet",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 285342,
+      "end_time_ms": 285600,
+      "num_slots": 1,
+      "text": "en",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 286087,
+      "end_time_ms": 287647,
+      "num_slots": 1,
+      "text": "mamma apkelletsekama",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 288242,
+      "end_time_ms": 289372,
+      "num_slots": 1,
+      "text": "mamma qaselha panko",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 290156,
+      "end_time_ms": 290527,
+      "num_slots": 1,
+      "text": "vanlha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 291463,
+      "end_time_ms": 293624,
+      "num_slots": 1,
+      "text": "o semheng amota amaniek lhengvak",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 294062,
+      "end_time_ms": 296425,
+      "num_slots": 1,
+      "text": "apkelvetai'a angeliapmaq lhenneng",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 297406,
+      "end_time_ms": 298420,
+      "num_slots": 1,
+      "text": "seme vanlha seme",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 298971,
+      "end_time_ms": 300591,
+      "num_slots": 1,
+      "text": "apketlhesma akelvetakhe mota",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 301231,
+      "end_time_ms": 301948,
+      "num_slots": 1,
+      "text": "akvesai'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 302364,
+      "end_time_ms": 302763,
+      "num_slots": 1,
+      "text": "nong",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 302892,
+      "end_time_ms": 303826,
+      "num_slots": 1,
+      "text": "ema qaselha nevha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 304546,
+      "end_time_ms": 305866,
+      "num_slots": 1,
+      "text": "ma'a ngkoiokaheng amaika'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 307880,
+      "end_time_ms": 308016,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 308376,
+      "end_time_ms": 308422,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 308818,
+      "end_time_ms": 308980,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 309283,
+      "end_time_ms": 309440,
+      "num_slots": 1,
+      "text": "ma",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 313262,
+      "end_time_ms": 313666,
+      "num_slots": 1,
+      "text": "elha ntem",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 314323,
+      "end_time_ms": 315064,
+      "num_slots": 1,
+      "text": "netamen ennieo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 315479,
+      "end_time_ms": 315646,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 316257,
+      "end_time_ms": 316413,
+      "num_slots": 1,
+      "text": "a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 316787,
+      "end_time_ms": 317231,
+      "num_slots": 1,
+      "text": "sentro nke",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 317344,
+      "end_time_ms": 317414,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 317871,
+      "end_time_ms": 318579,
+      "num_slots": 1,
+      "text": "kaa temmanlho",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 319134,
+      "end_time_ms": 319840,
+      "num_slots": 1,
+      "text": "temma nhan ma",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 320087,
+      "end_time_ms": 320279,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 320454,
+      "end_time_ms": 320560,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 321959,
+      "end_time_ms": 323574,
+      "num_slots": 1,
+      "text": "ia nokama skaiakmok ma'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 323873,
+      "end_time_ms": 324147,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 324516,
+      "end_time_ms": 326876,
+      "num_slots": 1,
+      "text": "ietnek nan aklheia ngkeltak nan ngvoihok ma'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 327529,
+      "end_time_ms": 330518,
+      "num_slots": 1,
+      "text": "temakha lh nlhema temma ietom'a konnenenekev' nlhe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 330756,
+      "end_time_ms": 331278,
+      "num_slots": 1,
+      "text": "mision",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 331854,
+      "end_time_ms": 332911,
+      "num_slots": 1,
+      "text": "mision alhta kvesai'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 333770,
+      "end_time_ms": 335996,
+      "num_slots": 1,
+      "text": "o nietnek ma'a escuela panko'ok nematka",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 336786,
+      "end_time_ms": 339067,
+      "num_slots": 1,
+      "text": "mematkak escuela kelentalhnek ma'a nematka",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 339192,
+      "end_time_ms": 340461,
+      "num_slots": 1,
+      "text": "kelempai'o kelelhaiam",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 341060,
+      "end_time_ms": 341562,
+      "num_slots": 1,
+      "text": "o nema",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 341685,
+      "end_time_ms": 341774,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 342769,
+      "end_time_ms": 343584,
+      "num_slots": 1,
+      "text": "o lhennenga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 343844,
+      "end_time_ms": 344707,
+      "num_slots": 1,
+      "text": "kelelhiakme mota",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 345344,
+      "end_time_ms": 345776,
+      "num_slots": 1,
+      "text": "nematka",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 346065,
+      "end_time_ms": 346431,
+      "num_slots": 1,
+      "text": "nieta'e",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 346555,
+      "end_time_ms": 347564,
+      "num_slots": 1,
+      "text": "velaietcentro na",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 348258,
+      "end_time_ms": 348348,
+      "num_slots": 1,
+      "text": "a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 348459,
+      "end_time_ms": 348877,
+      "num_slots": 1,
+      "text": "ta ntema",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 349038,
+      "end_time_ms": 349922,
+      "num_slots": 1,
+      "text": "kelelhiakmek nan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 350576,
+      "end_time_ms": 352192,
+      "num_slots": 1,
+      "text": "netamen gvangka apkakhaikamo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 353020,
+      "end_time_ms": 354628,
+      "num_slots": 1,
+      "text": "kelanelhe lhema escuela",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 355358,
+      "end_time_ms": 356261,
+      "num_slots": 1,
+      "text": "lonia uno",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 356672,
+      "end_time_ms": 357688,
+      "num_slots": 1,
+      "text": "potanhan he colonia",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 358030,
+      "end_time_ms": 358248,
+      "num_slots": 1,
+      "text": "o",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 359137,
+      "end_time_ms": 359500,
+      "num_slots": 1,
+      "text": "mania'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 359618,
+      "end_time_ms": 360193,
+      "num_slots": 1,
+      "text": "kelane",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 360313,
+      "end_time_ms": 360389,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 360799,
+      "end_time_ms": 361736,
+      "num_slots": 1,
+      "text": "kelentalhnek nan'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 361888,
+      "end_time_ms": 362090,
+      "num_slots": 1,
+      "text": "ven",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 362871,
+      "end_time_ms": 363110,
+      "num_slots": 1,
+      "text": "tema",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 363229,
+      "end_time_ms": 364394,
+      "num_slots": 1,
+      "text": "o svetai'a temakha eie",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 364527,
+      "end_time_ms": 364578,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 365398,
+      "end_time_ms": 365951,
+      "num_slots": 1,
+      "text": "asemepa",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 367361,
+      "end_time_ms": 368022,
+      "num_slots": 1,
+      "text": "ano haci",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 370051,
+      "end_time_ms": 373197,
+      "num_slots": 1,
+      "text": "nelvet annengko ngkeltanengko ihokha heng amaika enganko",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 373511,
+      "end_time_ms": 375051,
+      "num_slots": 1,
+      "text": "eltema ngkoniakhak aniamo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 375269,
+      "end_time_ms": 376558,
+      "num_slots": 1,
+      "text": "hek ankek aniemei'aqhak",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 377448,
+      "end_time_ms": 377657,
+      "num_slots": 1,
+      "text": "og",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 377863,
+      "end_time_ms": 378401,
+      "num_slots": 1,
+      "text": "ietneklhe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 378563,
+      "end_time_ms": 378908,
+      "num_slots": 1,
+      "text": "o",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 379956,
+      "end_time_ms": 381374,
+      "num_slots": 1,
+      "text": "neltennaikam",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 381810,
+      "end_time_ms": 382210,
+      "num_slots": 1,
+      "text": "manol",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 382480,
+      "end_time_ms": 382729,
+      "num_slots": 1,
+      "text": "tase",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 383074,
+      "end_time_ms": 383207,
+      "num_slots": 1,
+      "text": "an",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 384305,
+      "end_time_ms": 384646,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 391760,
+      "end_time_ms": 391838,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 392237,
+      "end_time_ms": 392382,
+      "num_slots": 1,
+      "text": "o",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 393951,
+      "end_time_ms": 395559,
+      "num_slots": 1,
+      "text": "vanlha nietnek na apkemmakmekam",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 395862,
+      "end_time_ms": 395954,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 396837,
+      "end_time_ms": 397100,
+      "num_slots": 1,
+      "text": "ietn",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 397576,
+      "end_time_ms": 397787,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 399752,
+      "end_time_ms": 400603,
+      "num_slots": 1,
+      "text": "vanlha alhemmenga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 400736,
+      "end_time_ms": 401312,
+      "num_slots": 1,
+      "text": "mamma pata",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 402490,
+      "end_time_ms": 402791,
+      "num_slots": 1,
+      "text": "mam",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 404581,
+      "end_time_ms": 405978,
+      "num_slots": 1,
+      "text": "mammo patakkom lhennenga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 406951,
+      "end_time_ms": 407488,
+      "num_slots": 1,
+      "text": "mamma",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 407867,
+      "end_time_ms": 408128,
+      "num_slots": 1,
+      "text": "ve",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 408279,
+      "end_time_ms": 408724,
+      "num_slots": 1,
+      "text": "to mamm",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 409381,
+      "end_time_ms": 409877,
+      "num_slots": 1,
+      "text": "ero nqe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 410223,
+      "end_time_ms": 410627,
+      "num_slots": 1,
+      "text": "enenlhet",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 410748,
+      "end_time_ms": 410931,
+      "num_slots": 1,
+      "text": "e",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 411537,
+      "end_time_ms": 412150,
+      "num_slots": 1,
+      "text": "mamma lhenn",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 412913,
+      "end_time_ms": 413052,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 413334,
+      "end_time_ms": 413867,
+      "num_slots": 1,
+      "text": "lhennen",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 416488,
+      "end_time_ms": 416675,
+      "num_slots": 1,
+      "text": "no",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 416828,
+      "end_time_ms": 417314,
+      "num_slots": 1,
+      "text": "nos tiene",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 417445,
+      "end_time_ms": 417905,
+      "num_slots": 1,
+      "text": "sveltona",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 418382,
+      "end_time_ms": 418587,
+      "num_slots": 1,
+      "text": "ara",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 418753,
+      "end_time_ms": 418882,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 419292,
+      "end_time_ms": 419806,
+      "num_slots": 1,
+      "text": "asinoma",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 419983,
+      "end_time_ms": 420264,
+      "num_slots": 1,
+      "text": "orob",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 420415,
+      "end_time_ms": 420762,
+      "num_slots": 1,
+      "text": "apok",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 420992,
+      "end_time_ms": 422048,
+      "num_slots": 1,
+      "text": "oketito ko ampra",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 422257,
+      "end_time_ms": 422777,
+      "num_slots": 1,
+      "text": "eteng",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 423236,
+      "end_time_ms": 423306,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 423515,
+      "end_time_ms": 423782,
+      "num_slots": 1,
+      "text": "pasa",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 424706,
+      "end_time_ms": 425224,
+      "num_slots": 1,
+      "text": "agona dia'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 426516,
+      "end_time_ms": 426611,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 427519,
+      "end_time_ms": 427721,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 429558,
+      "end_time_ms": 429650,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 429763,
+      "end_time_ms": 430065,
+      "num_slots": 1,
+      "text": "",
+      "dependents": []
+    }
+  ]
+}
