@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "timed": false,
+    "timed": true,
     "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
     "title": {
       "_default": "JE_07092025_Hapong_Aniep"
@@ -9,7 +9,7 @@
       "audio_local": "",
       "audio_remote": "",
       "video": "",
-      "audio": ""
+      "audio": "https://enenlhetaudio.nyc3.cdn.digitaloceanspaces.com/JE_07092025_Hapong_Aniep.wav"
     },
     "languages": [],
     "date_created": "",
@@ -40,198 +40,396 @@
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 0,
+      "end_time_ms": 10000,
+      "num_slots": 1,
+      "text": "nelvakteklhek hapomg aniep o aknem anako ngvaktek nan aniem'o mokhe'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 10000,
       "end_time_ms": 20000,
       "num_slots": 1,
-      "text": "nelvakteklhek hapong aniep o aknem anako ngvaktek nan aniem'o mokhe' vanlhak ntetkasema nhan aktemakha lhennenga temma kieto hapong aniep ka nhan ma'a tomakh apvetek iangqalho namok",
+      "text": "vanlhake ntetkasema nhan aktemakha lhennenga temma kieto hapvo aniep ka nhan ma'a tomakh apvetek iangqalho namok",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 20000,
+      "end_time_ms": 30000,
+      "num_slots": 1,
+      "text": "kakhaiangkelha enenlhet kakhaiangkek nak enenlhet ma lh 10 lhema nekha' haponganiep kakhangkek malha cuar kelha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 30000,
       "end_time_ms": 40000,
       "num_slots": 1,
-      "text": "kakhaiangkelha enenlhet kakhaiangkek nak enenlhet  lh190 lhema nekha' haponganiep kakhangkek malha cuare kelhaacolonia tres akvesai'a ntomakha apvetek nietnek ma'a alha 19 enenlhet kakhaikamok pkelvetsai'a toba avanhek alhta apkelvetai'a",
+      "text": "lhacolonia tres akvesai'aha ntomakha apvetek nietnek ma'a malha 19 enenlhet kakhaikamok ppkelvetsai'a tova avanhek alhta apkelvetai'a",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 40000,
+      "end_time_ms": 50000,
+      "num_slots": 1,
+      "text": "nietnek aniep apanko'ok nietnek apkelha aikamok nietnek nan kaleto apanko'ok lhennenga ka  ngkeltaek ngkonnak hengke'e",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 50000,
       "end_time_ms": 60000,
       "num_slots": 1,
-      "text": "nietnek aniep apanko'ok nietnek apkelha aikamok ietnek nan kaleto apanko'ok lhennenga ka  ngkeltaek ngkonnak hengke'e lhema enialh'akvo'o nak henelvaktengke'e ieto hapong aniep aisekhek temahapong aniep apkelvaktek nanlhema a",
+      "text": "lhema enialh'ak vo'o nak henelvaktengke'e ieto hapong aniep aisekhek temahapong aniep apkelvaktek nan lhema a",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 60000,
+      "end_time_ms": 70000,
+      "num_slots": 1,
+      "text": "vesa nhan nakha nialpa' nepvatemma nak ka nengaqtenak nakhanialpa niehong lhema lokal ma'a nietnek nive niavek na he amaika engan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 70000,
       "end_time_ms": 80000,
       "num_slots": 1,
-      "text": "vesa nhan nakha nialpa' nepvatemma nak kanengaqtenak nakhanialpa nieto lhema lokal ma'a nietnek nv niavek na he amaika engankokk keltangkoihok ma'a ennengko nkonne nnekev'amaika nak kelqasek nahan ntalhesalhkek akvesai'a kon",
+      "text": "kok keltangkoiok ma'a ennengko nkonne nenekev'amaika nak kelqasek nahan ntalhesalhkek akvesai'a kon",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 80000,
+      "end_time_ms": 90000,
+      "num_slots": 1,
+      "text": "apkelavakha ko nenekev' apkelvesi'a tova nietneklhek akvetai'a nietnek na akvetai'a lhennenga enenlhet temmak ka kolhave nak",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 90000,
       "end_time_ms": 100000,
       "num_slots": 1,
-      "text": "apkelavakha ko ne nekev' apkelvesia'a tova nietneklhek akvetai'a nietnek na akvetai'a lhennenga enenlhet temmak kakolhave nak o keltaiekhengkota vanlha koka mamma temma mamma tem nan kolhva' nietnekakvetai'a alhnankok engialhnenk akvai'a nak he",
+      "text": "o keltaiekhe ngkota vanlha koka mamma temma mamma tem nan kolhva nietnekakvetai'a alhnankok engialhneng akvai'a nak he",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 100000,
+      "end_time_ms": 110000,
+      "num_slots": 1,
+      "text": "kanhan malengaietekh lhema iokha lhema koka iokha lhmo'o apienaiamengkelha lhnak iemmen akvesai'a",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 110000,
       "end_time_ms": 120000,
       "num_slots": 1,
-      "text": "kanhan malengaieteklhema iokha lhema koka iokha lhmo' apienai'aengkelha lhnak iemmen akvesai'a malenga nietek akvesai'a apienaiangkelha iemmen enenlhet apiamakha iemen malenga niettek nietnek ma'a ngvet'ak nan",
+      "text": "malenga ietek akvesai'a apienaiangkelha iemmen enenlhet apiamakha iemen malenga niettek nietnek ma'a ngvet'ak nan",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 120000,
+      "end_time_ms": 130000,
+      "num_slots": 1,
+      "text": "apienahen kelha iemmen keliakmong kelha nhan ngvet'ak nan kan nelvaktamo nak ko'o lskeltennama o aktemakha nellomakha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 130000,
       "end_time_ms": 140000,
       "num_slots": 1,
-      "text": "apienaihen kelha iemmen keliakmhong kelha nhan ngvet'ak nan ka nelvaktamo nak ko'o lskeltennama o aktemakha nellomakha ko nenekev' apkelvesai'a apkelvesa nhan tovaka lhenkek alhenkek akvesai'a akvetai'a aniep nan'ak netlhe",
+      "text": "gko nenekev' apkelvesai'a apkelvesa nhan tovaka lhenkek alhenkek akvesai'a akvetai'a aniep nahan'ak netlh",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 140000,
+      "end_time_ms": 150000,
+      "num_slots": 1,
+      "text": "nkeklhek aniepalhamalh kelha mota ieto nak o lhema estancia nak ma'a lhennenga tep ankek mision anak lhenkek netlhe",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 150000,
       "end_time_ms": 160000,
       "num_slots": 1,
-      "text": "nkeklhek aniepalhamalh kelha mota ieto nak o lhema estancia nak ma'a lhennenga tep ankek mision anak lhnk alhenkek lhek ko'o alhamalhkelham'a akvesai'a akvesai'a alhamalhketa aktek kanietepepao kalekek t",
+      "text": "alhenkeklhek ko'o alhamalhkelham'a akvesai'a akvesai'a alhamalhketa aktek kanietepepa o kalekekt",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 160000,
+      "end_time_ms": 170000,
+      "num_slots": 1,
+      "text": "ek lhamakho ktemakha' alhammalhkelham'a ka aniem'ok hapoganiep tomakha apvetekkpota nhan nakha ialpa'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 170000,
       "end_time_ms": 180000,
       "num_slots": 1,
-      "text": "ek lhamakho ktemakha' alhammalhkelham'a ka aniem'ok haponganiep tomakha apvetekpotahan nakham ialpa' niangkqalho namokka nnetlhen annengkoma kolhave na maa ngkoihokhe akvo'o nak vanlha kelha",
+      "text": "niangqalho namok ka nnetlhena nnengkoma kolhave na maa ngkoihokheg akvo'o nak vanlha kelha",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 180000,
+      "end_time_ms": 190000,
+      "num_slots": 1,
+      "text": "kanha akvesai' ko la kvesaia lhen apong aniep apon aniep",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 190000,
       "end_time_ms": 200000,
       "num_slots": 1,
-      "text": "kanal akvesai' kola kvesaia lhene apong aniep apong aniepiamankalho na mok ko akvesaia mkhe kanangalema oo colonia malenganietek ay'untajamar para ava",
+      "text": "iamankalho na mok ko akvesaia mok he kanngalhkema o colonia maleng aietek ai'untajamar para ava",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 200000,
+      "end_time_ms": 210000,
+      "num_slots": 1,
+      "text": "lhv nennengo dad abascoma a apnnakana",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 210000,
       "end_time_ms": 220000,
       "num_slots": 1,
-      "text": "kenmakmekama kelhainalha lhe nietne' vanlha aklheno nietnek nenmakenmakmekamaengeliapmak",
+      "text": "kenmakmekama kelhainalh lhe nietne' vanlha aklheno nietnek nekenmakmekamaengeliapmak",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 220000,
+      "end_time_ms": 230000,
+      "num_slots": 1,
+      "text": "o kelloka kellomakhakonne nak nenekev' kaenmakmekama lhta mok lhema konnengenekev' mak nangkoiho' alhenkek nank",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 230000,
       "end_time_ms": 240000,
       "num_slots": 1,
-      "text": "o kelloka kellomakhakonne nak nenekev' kaenmakmekama lhta mok lhema kon ne enekev' mak nan ngkoiho' alhenkek nan ko'o to nak ko engeliepma lhta nietne pkenmakmekama kon nem enekev' ieto lhema lhtanciahta ntemak ko asvetai'a ma'a ngkoihok hen ama",
+      "text": "o'o ato nak k eeliepma lhta nietne apkenmakmekama konnem nekev' ieto lhema shtancia lhta ntemak ko asvetai'a ma'a ngkoiaokheng ama",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 240000,
+      "end_time_ms": 250000,
+      "num_slots": 1,
+      "text": "ka nak ietnek na pkenmakmekama aniep aniep anak kenmakmekamahapvo aniep tomakha apvetek iangqalhanam",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 250000,
       "end_time_ms": 260000,
       "num_slots": 1,
-      "text": "ka nak nietnek na pkenmakmekama aniep aniep anak kenmakmekamahapon aniep tomakha apvetek iangkalhanamok kenmakmemanhan kvesai'a aniep kienaikamok peia sepo lhamakho aktemakha aklheiam aelammalhka lhennenga vanlha pkenmamekama enenlhet",
+      "text": "kenmakmemanhan kvesaia aniep kienaikamok peia sepo lhamakho aktemakha aklheigam aelammalhka lhennenga vanlha pkenmakme kama enenlhet",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 260000,
+      "end_time_ms": 270000,
+      "num_slots": 1,
+      "text": "a'akestak astakko keaskanongke'e se'a nietnek nan ma'ak na ngkoihok kelpaqvamekamo",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 270000,
       "end_time_ms": 280000,
       "num_slots": 1,
-      "text": "a'akestak astak ko skeaskanongke'esi'a nietnek nan ma'ak na ngkoihok kelpaqvamekamok nietnek nahan kelvetai'a pomap nlhokalanhanpolhap pelhapen keltak nan ngkoihok temakha nialva",
+      "text": "nietnek nahan kelvetai'a apomap nlhokalanhan polhap pelhapen keltak na ngkoih temakha nialva",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 280000,
+      "end_time_ms": 290000,
+      "num_slots": 1,
+      "text": "pnapnaqsek vanlhamakho aktemakha' apkelvetai'a enenlhet lhennenga mamma apkelletsekama mamma qaselha panko'ok",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 290000,
       "end_time_ms": 300000,
       "num_slots": 1,
-      "text": "pnapnaqseklhamakho aktemakha' apkelvetai'a enenlhet lhennenga mamma apkelletsekama mamma qaselha panko'ok vanlhao semheng a mota amaniek lhengvaapkelvetai'a engeliapmak lhennenga semhe vanlha semheng apketlhelhma'a pkelve",
+      "text": "vanlhao semheng a mota amaniek lhengvaapkelvetai'a engeliapmak lhennenga semhe vanlha semheng apketlhelhma'a kev",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 300000,
+      "end_time_ms": 310000,
+      "num_slots": 1,
+      "text": "takhe mota akvesai'a lhema qaselha nevhak ma'a ngkoihokha hengamaika'a nak se'",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 310000,
       "end_time_ms": 320000,
       "num_slots": 1,
-      "text": "takhe mota akvesai'a lhema qaselha nevhak ma'a ngkoihokha heamaika'a nak se' asaakelha nlhe nak mok tamniorolmek ha' centro nkek lhaie ka hemmanlholham'a temma nhana",
+      "text": "nakelha nlhemnak mokkameniorolmek ha' centro nkeklhave ka hemanlholhtam'a temma nhan ma",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 320000,
+      "end_time_ms": 330000,
+      "num_slots": 1,
+      "text": "ia noka skaiakmok ma'a nietnek nanaklheia ngkeltaiak na ngvoihok ma'a temakha lhnn lhema temma ietoma konne",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 330000,
       "end_time_ms": 340000,
       "num_slots": 1,
-      "text": "noka skai'akmok ma'a nietnek nan aklheia ngkeltaiak na ngvoihok ma'a temakha lhlhema tema ietoma konennekev' lhek mision mision alhta kvesai'ao nietnek ma escuela panko'ok nem atkanematkak escuela kelentalhnek ma'a nematka kelempai'o k",
+      "text": "nekev lhek mision mision alhta kvesai'ao nietnek ma'a escuela panko'ok nematkak nematkak escuela kelentalhnek ma'a nematka lempai'o k",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 340000,
+      "end_time_ms": 350000,
+      "num_slots": 1,
+      "text": "lelhiaiamo nematkak o lhennenga kelelhiakme mota nematkak ieta escuela yd centro nak alhta ntemak kelelhiakmek nahan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 350000,
       "end_time_ms": 360000,
       "num_slots": 1,
-      "text": "lelhiaiamo nematkak o lhennenga kelelhiakme mota nematkak nieto escuela yd cetro nak alhta ntemak kelelhiakmek nan netamen ngvangka pkakhaikamok kelanelhelhema escuela colonia uno pota nhan hen colonia do colonia tkl",
+      "text": "netamen gvangka apkakhaikamok kelanelhelhema escuela colonia uno potanhan hen coloniados colonia tekel",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 360000,
+      "end_time_ms": 370000,
+      "num_slots": 1,
+      "text": "anelhkek kelentalhnek nan escuela temak ko svetai'a temakha eietkok asemepasa  ano alia",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 370000,
       "end_time_ms": 380000,
       "num_slots": 1,
-      "text": "anelhkek kelentalhnek nan escuela temak ko svetai'a temakha eietkok asemepasa ano alia nelvet'an hengko ngkeltamengko ihokha hengamaika engankok kelma ngkoniakhak aniama mokhek ankek aniem ei'akha kelhaonietneklhek",
+      "text": "nelvet'a n hengko'o ngkeltamengko ihokha hengamaika engankok kelma'a ngkoniakhak aniama mokhek ankek aniem ei'akha kelhaonietnetlhek",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 380000,
+      "end_time_ms": 390000,
+      "num_slots": 1,
+      "text": "neltennaikama manolo ntase' vanlha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 390000,
       "end_time_ms": 400000,
       "num_slots": 1,
-      "text": "neltennaikama manolo ntase'vlha gkolaktemakha kolhveva nak vanlha nietnek na pkenmakmekama nietne' vanlha pkenvakmengka vanl",
+      "text": "kolaktemakha kolhveva nak vanlha nietnek na pkenmakmekama nietne' vanlha pkenmakmengo vanl",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 400000,
+      "end_time_ms": 410000,
+      "num_slots": 1,
+      "text": "hta lhennenga mamma patakkom mamma'mama patak kom lhennenga mamma sverto mamma sero nke",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 410000,
       "end_time_ms": 420000,
       "num_slots": 1,
-      "text": "hta lhennenga mamma patakkom mamma'mama patak kom lhennenga mamma sverto mamma sero nke enenlhet lhennenga mamma lhennenga lhennenga mamma'notiene svelto nak pala elhtancia asioma",
+      "text": "enenlhet lhennenga mamma lhennenga nenga lhennenga mamma'notiene svelto naok pala estancia asinoma",
       "dependents": []
     },
     {
       "speaker": "S1",
       "tier": "ASR",
       "start_time_ms": 420000,
+      "end_time_ms": 430000,
+      "num_slots": 1,
+      "text": "urovestapoepoketito ko campra asi pasase agola dia si' netavienasai vanlha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "ASR",
+      "start_time_ms": 430000,
       "end_time_ms": 430889,
       "num_slots": 1,
-      "text": "urovestapoepocetito ko campra as pasase agola dia si' netavienasai vanlha",
+      "text": "",
       "dependents": []
     }
   ]

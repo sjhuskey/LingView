@@ -219,7 +219,7 @@
     }
   },
   "cbc5ff68-ecc1-414f-9860-cb913ab683gt": {
-    "timed": false,
+    "timed": true,
     "story ID": "cbc5ff68-ecc1-414f-9860-cb913ab683gt",
     "title": {
       "_default": "JE_07092025_Hapong_Aniep"
@@ -228,7 +228,7 @@
       "audio_local": "",
       "audio_remote": "",
       "video": "",
-      "audio": ""
+      "audio": "https://enenlhetaudio.nyc3.cdn.digitaloceanspaces.com/JE_07092025_Hapong_Aniep.wav"
     },
     "languages": [],
     "date_created": "",
